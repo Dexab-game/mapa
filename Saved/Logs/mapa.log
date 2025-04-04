@@ -2586,3 +2586,1027 @@ Script Stack (0 frames) :
 [2025.04.04-23.07.59:098][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1741.880615
 [2025.04.04-23.07.59:551][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.04-23.07.59:552][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1742.303833, Update Interval: 358.921478
+[2025.04.04-23.08.37:870][370]LogWaterEditor: Warning: Could not find a suitable landscape to which to assign the water brush! Defaulting to the first landscape.
+[2025.04.04-23.08.37:878][370]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.StaticMesh'WaterInfoMesh_62' while FindImportedObject, will return /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA46F5B02_1115401130.WaterInfoMesh_62 but could also be: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.REINST_WaterBodyLake6_Blueprint_C_2.WaterInfoMesh_62
+[2025.04.04-23.08.37:878][370]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialInstanceDynamic /Engine/Transient.WaterInfoMID_5) from referencer (WaterBodyInfoMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMeshComponent).  Import failed...
+[2025.04.04-23.08.37:878][370]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to '"/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.WaterInfoMID_5'"'
+[2025.04.04-23.08.37:879][370]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name /Script/Engine.StaticMesh'WaterInfoDilatedMesh_63' while FindImportedObject, will return /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA46F5B02_1115401130.WaterInfoDilatedMesh_63 but could also be: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.REINST_WaterBodyLake6_Blueprint_C_2.WaterInfoDilatedMesh_63
+[2025.04.04-23.08.37:879][370]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialInstanceDynamic /Engine/Transient.WaterInfoMID_5) from referencer (WaterBodyInfoMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.DilatedWaterInfoMeshComponent).  Import failed...
+[2025.04.04-23.08.37:879][370]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to '"/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.WaterInfoMID_5'"'
+[2025.04.04-23.08.37:887][370]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialInstanceDynamic /Engine/Transient.WaterMID_2) from referencer (SplineMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.SplineMeshComponent_0).  Import failed...
+[2025.04.04-23.08.37:887][370]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to '"/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.WaterMID_2'"'
+[2025.04.04-23.08.37:888][370]LogProperty: Warning: Illegal TEXT reference to a private object in external package (MaterialInstanceDynamic /Engine/Transient.WaterMID_2) from referencer (SplineMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.SplineMeshComponent_1).  Import failed...
+[2025.04.04-23.08.37:888][370]LogProperty: Warning: ObjectProperty /Script/Engine.MeshComponent:OverrideMaterials.OverrideMaterials: unresolved reference to '"/Script/Engine.MaterialInstanceDynamic'/Engine/Transient.WaterMID_2'"'
+[2025.04.04-23.08.51:772][ 35]LogStaticMesh: Display: Building static mesh WaterInfoMesh_14 (Required Memory Estimate: 0.120971 MB)...
+[2025.04.04-23.08.51:775][ 35]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_14
+[2025.04.04-23.09.12:955][ 96]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_29 (Required Memory Estimate: 0.152086 MB)...
+[2025.04.04-23.09.12:955][ 96]LogStaticMesh: Display: Building static mesh WaterInfoMesh_28 (Required Memory Estimate: 0.11077 MB)...
+[2025.04.04-23.09.12:958][ 96]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_28
+[2025.04.04-23.09.12:958][ 96]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_29
+[2025.04.04-23.09.16:285][276]LogStaticMesh: Display: Building static mesh WaterInfoMesh_32 (Required Memory Estimate: 0.105723 MB)...
+[2025.04.04-23.09.16:285][276]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_33 (Required Memory Estimate: 0.145838 MB)...
+[2025.04.04-23.09.16:287][276]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_33
+[2025.04.04-23.09.16:287][276]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_32
+[2025.04.04-23.09.22:707][586]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_41 (Required Memory Estimate: 0.158335 MB)...
+[2025.04.04-23.09.22:708][586]LogStaticMesh: Display: Building static mesh WaterInfoMesh_40 (Required Memory Estimate: 0.115817 MB)...
+[2025.04.04-23.09.22:709][586]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_41
+[2025.04.04-23.09.22:709][586]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_40
+[2025.04.04-23.09.24:241][665]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_45 (Required Memory Estimate: 0.108133 MB)...
+[2025.04.04-23.09.24:241][665]LogStaticMesh: Display: Building static mesh WaterInfoMesh_44 (Required Memory Estimate: 0.075229 MB)...
+[2025.04.04-23.09.24:244][665]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_44
+[2025.04.04-23.09.24:244][665]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_45
+[2025.04.04-23.09.25:261][709]LogStaticMesh: Display: Building static mesh WaterInfoMesh_48 (Required Memory Estimate: 0.09563 MB)...
+[2025.04.04-23.09.25:261][709]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_49 (Required Memory Estimate: 0.133287 MB)...
+[2025.04.04-23.09.25:262][709]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_48
+[2025.04.04-23.09.25:263][709]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_49
+[2025.04.04-23.09.26:304][764]LogStaticMesh: Display: Building static mesh WaterInfoMesh_52 (Required Memory Estimate: 0.065135 MB)...
+[2025.04.04-23.09.26:304][764]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_53 (Required Memory Estimate: 0.095636 MB)...
+[2025.04.04-23.09.26:306][764]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_52
+[2025.04.04-23.09.26:306][764]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_53
+[2025.04.04-23.09.29:865][942]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_57 (Required Memory Estimate: 0.095636 MB)...
+[2025.04.04-23.09.29:866][942]LogStaticMesh: Display: Building static mesh WaterInfoMesh_56 (Required Memory Estimate: 0.065135 MB)...
+[2025.04.04-23.09.29:867][942]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_56
+[2025.04.04-23.09.29:867][942]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_57
+[2025.04.04-23.09.30:658][982]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_61 (Required Memory Estimate: 0.095636 MB)...
+[2025.04.04-23.09.30:658][982]LogStaticMesh: Display: Building static mesh WaterInfoMesh_60 (Required Memory Estimate: 0.065135 MB)...
+[2025.04.04-23.09.30:661][982]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_60
+[2025.04.04-23.09.30:661][982]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_61
+[2025.04.04-23.09.34:806][169]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_65 (Required Memory Estimate: 0.108133 MB)...
+[2025.04.04-23.09.34:806][169]LogStaticMesh: Display: Building static mesh WaterInfoMesh_64 (Required Memory Estimate: 0.075229 MB)...
+[2025.04.04-23.09.34:808][169]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_64
+[2025.04.04-23.09.34:808][169]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_65
+[2025.04.04-23.09.38:432][372]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_69 (Required Memory Estimate: 0.277643 MB)...
+[2025.04.04-23.09.38:433][372]LogStaticMesh: Display: Building static mesh WaterInfoMesh_68 (Required Memory Estimate: 0.212295 MB)...
+[2025.04.04-23.09.38:435][372]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_68
+[2025.04.04-23.09.38:435][372]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_69
+[2025.04.04-23.09.39:802][441]LogStaticMesh: Display: Building static mesh WaterInfoMesh_72 (Required Memory Estimate: 0.18188 MB)...
+[2025.04.04-23.09.39:802][441]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_73 (Required Memory Estimate: 0.239965 MB)...
+[2025.04.04-23.09.39:804][441]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_73
+[2025.04.04-23.09.39:804][441]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_72
+[2025.04.04-23.09.41:158][512]LogStaticMesh: Display: Building static mesh WaterInfoMesh_76 (Required Memory Estimate: 0.166526 MB)...
+[2025.04.04-23.09.41:158][512]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_77 (Required Memory Estimate: 0.221167 MB)...
+[2025.04.04-23.09.41:160][512]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_76
+[2025.04.04-23.09.41:160][512]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_77
+[2025.04.04-23.09.42:182][565]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_81 (Required Memory Estimate: 0.183489 MB)...
+[2025.04.04-23.09.42:182][565]LogStaticMesh: Display: Building static mesh WaterInfoMesh_80 (Required Memory Estimate: 0.136138 MB)...
+[2025.04.04-23.09.42:185][565]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_80
+[2025.04.04-23.09.42:185][565]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_81
+[2025.04.04-23.09.46:243][747]LogStaticMesh: Display: Building static mesh WaterInfoMesh_88 (Required Memory Estimate: 0.151385 MB)...
+[2025.04.04-23.09.46:243][747]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_89 (Required Memory Estimate: 0.202288 MB)...
+[2025.04.04-23.09.46:245][747]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_88
+[2025.04.04-23.09.46:245][747]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_89
+[2025.04.04-23.09.51:049][985]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_93 (Required Memory Estimate: 0.183489 MB)...
+[2025.04.04-23.09.51:049][985]LogStaticMesh: Display: Building static mesh WaterInfoMesh_92 (Required Memory Estimate: 0.136138 MB)...
+[2025.04.04-23.09.51:051][985]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_92
+[2025.04.04-23.09.51:051][985]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_93
+[2025.04.04-23.09.52:782][ 71]LogStaticMesh: Display: Building static mesh WaterInfoMesh_96 (Required Memory Estimate: 0.186927 MB)...
+[2025.04.04-23.09.52:782][ 71]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_97 (Required Memory Estimate: 0.246241 MB)...
+[2025.04.04-23.09.52:784][ 71]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_96
+[2025.04.04-23.09.52:784][ 71]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_97
+[2025.04.04-23.09.54:293][148]LogStaticMesh: Display: Building static mesh WaterInfoMesh_100 (Required Memory Estimate: 0.222388 MB)...
+[2025.04.04-23.09.54:293][148]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_101 (Required Memory Estimate: 0.290167 MB)...
+[2025.04.04-23.09.54:296][148]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_101
+[2025.04.04-23.09.54:296][148]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_100
+[2025.04.04-23.09.55:513][212]LogStaticMesh: Display: Building static mesh WaterInfoMesh_104 (Required Memory Estimate: 0.227542 MB)...
+[2025.04.04-23.09.55:513][212]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_105 (Required Memory Estimate: 0.296442 MB)...
+[2025.04.04-23.09.55:515][212]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_105
+[2025.04.04-23.09.55:515][212]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_104
+[2025.04.04-23.09.56:088][239]LogStaticMesh: Display: Building static mesh WaterInfoMesh_108 (Required Memory Estimate: 0.227542 MB)...
+[2025.04.04-23.09.56:088][239]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_109 (Required Memory Estimate: 0.296442 MB)...
+[2025.04.04-23.09.56:091][239]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_108
+[2025.04.04-23.09.56:091][239]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_109
+[2025.04.04-23.09.56:633][264]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_113 (Required Memory Estimate: 0.296442 MB)...
+[2025.04.04-23.09.56:633][264]LogStaticMesh: Display: Building static mesh WaterInfoMesh_112 (Required Memory Estimate: 0.227542 MB)...
+[2025.04.04-23.09.56:635][264]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_113
+[2025.04.04-23.09.56:635][264]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_112
+[2025.04.04-23.09.57:283][295]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_117 (Required Memory Estimate: 0.321569 MB)...
+[2025.04.04-23.09.57:284][295]LogStaticMesh: Display: Building static mesh WaterInfoMesh_116 (Required Memory Estimate: 0.247729 MB)...
+[2025.04.04-23.09.57:285][295]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_116
+[2025.04.04-23.09.57:286][295]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_117
+[2025.04.04-23.09.59:574][419]LogStaticMesh: Display: Building static mesh WaterInfoMesh_120 (Required Memory Estimate: 0.242682 MB)...
+[2025.04.04-23.09.59:574][419]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_121 (Required Memory Estimate: 0.315321 MB)...
+[2025.04.04-23.09.59:575][419]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_120
+[2025.04.04-23.09.59:575][419]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_121
+[2025.04.04-23.10.00:298][454]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_125 (Required Memory Estimate: 0.308939 MB)...
+[2025.04.04-23.10.00:298][454]LogStaticMesh: Display: Building static mesh WaterInfoMesh_124 (Required Memory Estimate: 0.237636 MB)...
+[2025.04.04-23.10.00:300][454]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_124
+[2025.04.04-23.10.00:300][454]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_125
+[2025.04.04-23.10.00:975][487]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_129 (Required Memory Estimate: 0.308939 MB)...
+[2025.04.04-23.10.00:975][487]LogStaticMesh: Display: Building static mesh WaterInfoMesh_128 (Required Memory Estimate: 0.237636 MB)...
+[2025.04.04-23.10.00:977][487]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_129
+[2025.04.04-23.10.00:978][487]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_128
+[2025.04.04-23.10.01:625][518]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_133 (Required Memory Estimate: 0.302691 MB)...
+[2025.04.04-23.10.01:625][518]LogStaticMesh: Display: Building static mesh WaterInfoMesh_132 (Required Memory Estimate: 0.232589 MB)...
+[2025.04.04-23.10.01:626][518]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_133
+[2025.04.04-23.10.01:628][518]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_132
+[2025.04.04-23.10.02:994][592]LogStaticMesh: Display: Building static mesh WaterInfoMesh_136 (Required Memory Estimate: 0.242682 MB)...
+[2025.04.04-23.10.02:995][592]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_137 (Required Memory Estimate: 0.315321 MB)...
+[2025.04.04-23.10.02:997][592]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_136
+[2025.04.04-23.10.02:997][592]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_137
+[2025.04.04-23.10.05:586][710]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_141 (Required Memory Estimate: 0.315321 MB)...
+[2025.04.04-23.10.05:586][710]LogStaticMesh: Display: Building static mesh WaterInfoMesh_140 (Required Memory Estimate: 0.242682 MB)...
+[2025.04.04-23.10.05:589][710]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_141
+[2025.04.04-23.10.05:589][710]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_140
+[2025.04.04-23.10.06:198][738]LogStaticMesh: Display: Building static mesh WaterInfoMesh_144 (Required Memory Estimate: 0.242682 MB)...
+[2025.04.04-23.10.06:198][738]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_145 (Required Memory Estimate: 0.315321 MB)...
+[2025.04.04-23.10.06:201][738]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_144
+[2025.04.04-23.10.06:201][738]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_145
+[2025.04.04-23.10.08:938][886]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_149 (Required Memory Estimate: 0.308939 MB)...
+[2025.04.04-23.10.08:938][886]LogStaticMesh: Display: Building static mesh WaterInfoMesh_148 (Required Memory Estimate: 0.237636 MB)...
+[2025.04.04-23.10.08:941][886]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_148
+[2025.04.04-23.10.08:941][886]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_149
+[2025.04.04-23.10.12:654][ 56]LogStaticMesh: Display: Building static mesh WaterInfoMesh_156 (Required Memory Estimate: 0.237636 MB)...
+[2025.04.04-23.10.12:654][ 56]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_157 (Required Memory Estimate: 0.308939 MB)...
+[2025.04.04-23.10.12:656][ 56]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_156
+[2025.04.04-23.10.12:656][ 56]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_157
+[2025.04.04-23.10.13:230][ 84]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_161 (Required Memory Estimate: 0.308939 MB)...
+[2025.04.04-23.10.13:230][ 84]LogStaticMesh: Display: Building static mesh WaterInfoMesh_160 (Required Memory Estimate: 0.237636 MB)...
+[2025.04.04-23.10.13:232][ 84]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_160
+[2025.04.04-23.10.13:232][ 84]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_161
+[2025.04.04-23.10.13:775][110]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_165 (Required Memory Estimate: 0.308939 MB)...
+[2025.04.04-23.10.13:775][110]LogStaticMesh: Display: Building static mesh WaterInfoMesh_164 (Required Memory Estimate: 0.237636 MB)...
+[2025.04.04-23.10.13:777][110]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_164
+[2025.04.04-23.10.13:777][110]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_165
+[2025.04.04-23.10.18:579][344]LogStaticMesh: Display: Building static mesh WaterInfoMesh_168 (Required Memory Estimate: 0.237636 MB)...
+[2025.04.04-23.10.18:579][344]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_169 (Required Memory Estimate: 0.308939 MB)...
+[2025.04.04-23.10.18:581][344]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_168
+[2025.04.04-23.10.18:581][344]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_169
+[2025.04.04-23.10.19:367][383]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_173 (Required Memory Estimate: 0.321569 MB)...
+[2025.04.04-23.10.19:367][383]LogStaticMesh: Display: Building static mesh WaterInfoMesh_172 (Required Memory Estimate: 0.247729 MB)...
+[2025.04.04-23.10.19:369][383]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_173
+[2025.04.04-23.10.19:369][383]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_172
+[2025.04.04-23.10.20:039][414]LogStaticMesh: Display: Building static mesh WaterInfoMesh_176 (Required Memory Estimate: 0.247729 MB)...
+[2025.04.04-23.10.20:039][414]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_177 (Required Memory Estimate: 0.321569 MB)...
+[2025.04.04-23.10.20:042][414]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_176
+[2025.04.04-23.10.20:042][414]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_177
+[2025.04.04-23.10.20:591][440]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_181 (Required Memory Estimate: 0.321569 MB)...
+[2025.04.04-23.10.20:591][440]LogStaticMesh: Display: Building static mesh WaterInfoMesh_180 (Required Memory Estimate: 0.247729 MB)...
+[2025.04.04-23.10.20:593][440]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_180
+[2025.04.04-23.10.20:593][440]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_181
+[2025.04.04-23.10.21:209][469]LogStaticMesh: Display: Building static mesh WaterInfoMesh_184 (Required Memory Estimate: 0.247729 MB)...
+[2025.04.04-23.10.21:209][469]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_185 (Required Memory Estimate: 0.321569 MB)...
+[2025.04.04-23.10.21:211][469]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_184
+[2025.04.04-23.10.21:211][469]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_185
+[2025.04.04-23.10.23:768][601]LogStaticMesh: Display: Building static mesh WaterInfoMesh_188 (Required Memory Estimate: 0.247729 MB)...
+[2025.04.04-23.10.23:768][601]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_189 (Required Memory Estimate: 0.321569 MB)...
+[2025.04.04-23.10.23:770][601]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_188
+[2025.04.04-23.10.23:770][601]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_189
+[2025.04.04-23.10.33:534][111]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_193 (Required Memory Estimate: 0.327845 MB)...
+[2025.04.04-23.10.33:534][111]LogStaticMesh: Display: Building static mesh WaterInfoMesh_192 (Required Memory Estimate: 0.25283 MB)...
+[2025.04.04-23.10.33:536][111]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_192
+[2025.04.04-23.10.33:536][111]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_193
+[2025.04.04-23.10.35:335][199]LogStaticMesh: Display: Building static mesh WaterInfoMesh_196 (Required Memory Estimate: 0.258037 MB)...
+[2025.04.04-23.10.35:335][199]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_197 (Required Memory Estimate: 0.334093 MB)...
+[2025.04.04-23.10.35:338][199]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_197
+[2025.04.04-23.10.35:338][199]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_196
+[2025.04.04-23.10.36:433][255]LogStaticMesh: Display: Building static mesh WaterInfoMesh_200 (Required Memory Estimate: 0.263083 MB)...
+[2025.04.04-23.10.36:433][255]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_201 (Required Memory Estimate: 0.340368 MB)...
+[2025.04.04-23.10.36:435][255]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_200
+[2025.04.04-23.10.36:435][255]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_201
+[2025.04.04-23.10.37:257][296]LogStaticMesh: Display: Building static mesh WaterInfoMesh_204 (Required Memory Estimate: 0.278224 MB)...
+[2025.04.04-23.10.37:257][296]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_205 (Required Memory Estimate: 0.35914 MB)...
+[2025.04.04-23.10.37:259][296]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_204
+[2025.04.04-23.10.37:259][296]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_205
+[2025.04.04-23.10.37:949][330]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_209 (Required Memory Estimate: 0.35914 MB)...
+[2025.04.04-23.10.37:949][330]LogStaticMesh: Display: Building static mesh WaterInfoMesh_208 (Required Memory Estimate: 0.278224 MB)...
+[2025.04.04-23.10.37:952][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_209
+[2025.04.04-23.10.37:952][330]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_208
+[2025.04.04-23.10.39:282][400]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_213 (Required Memory Estimate: 0.378046 MB)...
+[2025.04.04-23.10.39:282][400]LogStaticMesh: Display: Building static mesh WaterInfoMesh_212 (Required Memory Estimate: 0.293498 MB)...
+[2025.04.04-23.10.39:285][400]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_212
+[2025.04.04-23.10.39:285][400]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_213
+[2025.04.04-23.10.40:217][447]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_217 (Required Memory Estimate: 0.371771 MB)...
+[2025.04.04-23.10.40:217][447]LogStaticMesh: Display: Building static mesh WaterInfoMesh_216 (Required Memory Estimate: 0.288424 MB)...
+[2025.04.04-23.10.40:219][447]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_216
+[2025.04.04-23.10.40:219][447]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_217
+[2025.04.04-23.10.40:637][466]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_221 (Required Memory Estimate: 0.35914 MB)...
+[2025.04.04-23.10.40:638][466]LogStaticMesh: Display: Building static mesh WaterInfoMesh_220 (Required Memory Estimate: 0.278224 MB)...
+[2025.04.04-23.10.40:640][466]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_220
+[2025.04.04-23.10.40:640][466]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_221
+[2025.04.04-23.10.41:010][482]LogStaticMesh: Display: Building static mesh WaterInfoMesh_224 (Required Memory Estimate: 0.263083 MB)...
+[2025.04.04-23.10.41:010][482]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_225 (Required Memory Estimate: 0.340368 MB)...
+[2025.04.04-23.10.41:012][482]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_224
+[2025.04.04-23.10.41:013][482]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_225
+[2025.04.04-23.10.41:436][501]LogStaticMesh: Display: Building static mesh WaterInfoMesh_228 (Required Memory Estimate: 0.263083 MB)...
+[2025.04.04-23.10.41:436][501]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_229 (Required Memory Estimate: 0.340368 MB)...
+[2025.04.04-23.10.41:438][501]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_228
+[2025.04.04-23.10.41:438][501]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_229
+[2025.04.04-23.10.46:747][764]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_233 (Required Memory Estimate: 0.352892 MB)...
+[2025.04.04-23.10.46:747][764]LogStaticMesh: Display: Building static mesh WaterInfoMesh_232 (Required Memory Estimate: 0.273177 MB)...
+[2025.04.04-23.10.46:749][764]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_232
+[2025.04.04-23.10.46:749][764]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_233
+[2025.04.04-23.10.47:768][817]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_237 (Required Memory Estimate: 0.352892 MB)...
+[2025.04.04-23.10.47:768][817]LogStaticMesh: Display: Building static mesh WaterInfoMesh_236 (Required Memory Estimate: 0.273177 MB)...
+[2025.04.04-23.10.47:770][817]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_236
+[2025.04.04-23.10.47:770][817]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_237
+[2025.04.04-23.10.48:921][878]LogStaticMesh: Display: Building static mesh WaterInfoMesh_240 (Required Memory Estimate: 0.278224 MB)...
+[2025.04.04-23.10.48:921][878]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_241 (Required Memory Estimate: 0.35914 MB)...
+[2025.04.04-23.10.48:923][878]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_240
+[2025.04.04-23.10.48:923][878]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_241
+[2025.04.04-23.10.51:484][ 12]LogStaticMesh: Display: Building static mesh WaterInfoMesh_244 (Required Memory Estimate: 0.278224 MB)...
+[2025.04.04-23.10.51:484][ 12]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_245 (Required Memory Estimate: 0.35914 MB)...
+[2025.04.04-23.10.51:486][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_244
+[2025.04.04-23.10.51:487][ 12]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_245
+[2025.04.04-23.10.52:496][ 65]LogStaticMesh: Display: Building static mesh WaterInfoMesh_248 (Required Memory Estimate: 0.283378 MB)...
+[2025.04.04-23.10.52:496][ 65]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_249 (Required Memory Estimate: 0.365522 MB)...
+[2025.04.04-23.10.52:497][ 65]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_248
+[2025.04.04-23.10.52:498][ 65]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_249
+[2025.04.04-23.11.20:408][487]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_253 (Required Memory Estimate: 0.371771 MB)...
+[2025.04.04-23.11.20:408][487]LogStaticMesh: Display: Building static mesh WaterInfoMesh_252 (Required Memory Estimate: 0.288424 MB)...
+[2025.04.04-23.11.20:411][487]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_252
+[2025.04.04-23.11.20:411][487]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_253
+[2025.04.04-23.11.21:105][521]LogStaticMesh: Display: Building static mesh WaterInfoMesh_256 (Required Memory Estimate: 0.293498 MB)...
+[2025.04.04-23.11.21:105][521]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_257 (Required Memory Estimate: 0.378046 MB)...
+[2025.04.04-23.11.21:108][521]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_256
+[2025.04.04-23.11.21:108][521]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_257
+[2025.04.04-23.11.22:900][616]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_261 (Required Memory Estimate: 0.378046 MB)...
+[2025.04.04-23.11.22:900][616]LogStaticMesh: Display: Building static mesh WaterInfoMesh_260 (Required Memory Estimate: 0.293498 MB)...
+[2025.04.04-23.11.22:902][616]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_260
+[2025.04.04-23.11.22:902][616]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_261
+[2025.04.04-23.11.26:405][781]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_265 (Required Memory Estimate: 0.378046 MB)...
+[2025.04.04-23.11.26:405][781]LogStaticMesh: Display: Building static mesh WaterInfoMesh_264 (Required Memory Estimate: 0.293498 MB)...
+[2025.04.04-23.11.26:408][781]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_265
+[2025.04.04-23.11.26:408][781]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_264
+[2025.04.04-23.11.26:977][808]LogStaticMesh: Display: Building static mesh WaterInfoMesh_268 (Required Memory Estimate: 0.288424 MB)...
+[2025.04.04-23.11.26:977][808]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_269 (Required Memory Estimate: 0.371771 MB)...
+[2025.04.04-23.11.26:979][808]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_268
+[2025.04.04-23.11.26:979][808]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_269
+[2025.04.04-23.11.27:519][834]LogStaticMesh: Display: Building static mesh WaterInfoMesh_272 (Required Memory Estimate: 0.288424 MB)...
+[2025.04.04-23.11.27:519][834]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_273 (Required Memory Estimate: 0.371771 MB)...
+[2025.04.04-23.11.27:521][834]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_272
+[2025.04.04-23.11.27:522][834]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_273
+[2025.04.04-23.11.28:339][876]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_277 (Required Memory Estimate: 0.371771 MB)...
+[2025.04.04-23.11.28:339][876]LogStaticMesh: Display: Building static mesh WaterInfoMesh_276 (Required Memory Estimate: 0.288424 MB)...
+[2025.04.04-23.11.28:342][876]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_277
+[2025.04.04-23.11.28:342][876]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_276
+[2025.04.04-23.11.33:523][135]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_281 (Required Memory Estimate: 0.384295 MB)...
+[2025.04.04-23.11.33:523][135]LogStaticMesh: Display: Building static mesh WaterInfoMesh_280 (Required Memory Estimate: 0.298545 MB)...
+[2025.04.04-23.11.33:525][135]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_280
+[2025.04.04-23.11.33:526][135]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_281
+[2025.04.04-23.11.36:614][289]LogStaticMesh: Display: Building static mesh WaterInfoMesh_284 (Required Memory Estimate: 0.354381 MB)...
+[2025.04.04-23.11.36:614][289]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_285 (Required Memory Estimate: 0.453295 MB)...
+[2025.04.04-23.11.36:617][289]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_285
+[2025.04.04-23.11.36:617][289]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_284
+[2025.04.04-23.11.37:624][340]LogStaticMesh: Display: Building static mesh WaterInfoMesh_288 (Required Memory Estimate: 0.33924 MB)...
+[2025.04.04-23.11.37:624][340]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_289 (Required Memory Estimate: 0.434496 MB)...
+[2025.04.04-23.11.37:627][340]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_288
+[2025.04.04-23.11.37:628][340]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_289
+[2025.04.04-23.11.38:260][371]LogStaticMesh: Display: Building static mesh WaterInfoMesh_292 (Required Memory Estimate: 0.33924 MB)...
+[2025.04.04-23.11.38:260][371]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_293 (Required Memory Estimate: 0.434496 MB)...
+[2025.04.04-23.11.38:262][371]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_293
+[2025.04.04-23.11.38:262][371]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_292
+[2025.04.04-23.11.39:400][430]LogStaticMesh: Display: Building static mesh WaterInfoMesh_296 (Required Memory Estimate: 0.334033 MB)...
+[2025.04.04-23.11.39:400][430]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_297 (Required Memory Estimate: 0.428247 MB)...
+[2025.04.04-23.11.39:401][430]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_296
+[2025.04.04-23.11.39:401][430]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_297
+[2025.04.04-23.11.42:792][592]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_301 (Required Memory Estimate: 0.428247 MB)...
+[2025.04.04-23.11.42:793][592]LogStaticMesh: Display: Building static mesh WaterInfoMesh_300 (Required Memory Estimate: 0.334033 MB)...
+[2025.04.04-23.11.42:795][592]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_300
+[2025.04.04-23.11.42:795][592]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_301
+[2025.04.04-23.11.56:285][294]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_309 (Required Memory Estimate: 0.421972 MB)...
+[2025.04.04-23.11.56:285][294]LogStaticMesh: Display: Building static mesh WaterInfoMesh_308 (Required Memory Estimate: 0.328933 MB)...
+[2025.04.04-23.11.56:287][294]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_308
+[2025.04.04-23.11.56:287][294]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_309
+[2025.04.04-23.11.56:287][294]LogStaticMesh: Warning: WaterInfoMesh_308 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.11.56:287][294]LogStaticMesh: Warning: WaterInfoMesh_308 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.11.56:291][294]LogStaticMesh: Warning: WaterInfoMesh_310 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.11.56:291][294]LogStaticMesh: Warning: WaterInfoMesh_310 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.11.57:552][364]Cmd: SELECT NONE
+[2025.04.04-23.12.13:830][242]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.12.38:435][507]Cmd: SELECT NONE
+[2025.04.04-23.12.51:033][170]LogStaticMesh: Display: Building static mesh WaterInfoMesh_312 (Required Memory Estimate: 0.33924 MB)...
+[2025.04.04-23.12.51:033][170]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_313 (Required Memory Estimate: 0.434496 MB)...
+[2025.04.04-23.12.51:035][170]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_312
+[2025.04.04-23.12.51:035][170]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_313
+[2025.04.04-23.12.51:035][170]LogStaticMesh: Warning: WaterInfoMesh_312 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.51:035][170]LogStaticMesh: Warning: WaterInfoMesh_312 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.51:039][170]LogStaticMesh: Warning: WaterInfoMesh_314 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.51:039][170]LogStaticMesh: Warning: WaterInfoMesh_314 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.53:220][280]LogStaticMesh: Display: Building static mesh WaterInfoMesh_316 (Required Memory Estimate: 0.379748 MB)...
+[2025.04.04-23.12.53:221][280]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_317 (Required Memory Estimate: 0.484697 MB)...
+[2025.04.04-23.12.53:222][280]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_316
+[2025.04.04-23.12.53:223][280]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_317
+[2025.04.04-23.12.53:223][280]LogStaticMesh: Warning: WaterInfoMesh_316 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.53:223][280]LogStaticMesh: Warning: WaterInfoMesh_316 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.53:227][280]LogStaticMesh: Warning: WaterInfoMesh_318 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.53:227][280]LogStaticMesh: Warning: WaterInfoMesh_318 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.55:281][391]LogStaticMesh: Display: Building static mesh WaterInfoMesh_320 (Required Memory Estimate: 0.384795 MB)...
+[2025.04.04-23.12.55:281][391]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_321 (Required Memory Estimate: 0.490973 MB)...
+[2025.04.04-23.12.55:283][391]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_320
+[2025.04.04-23.12.55:283][391]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_321
+[2025.04.04-23.12.55:284][391]LogStaticMesh: Warning: WaterInfoMesh_320 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.55:284][391]LogStaticMesh: Warning: WaterInfoMesh_320 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.55:288][391]LogStaticMesh: Warning: WaterInfoMesh_322 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.55:288][391]LogStaticMesh: Warning: WaterInfoMesh_322 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.57:316][501]LogStaticMesh: Display: Building static mesh WaterInfoMesh_324 (Required Memory Estimate: 0.384795 MB)...
+[2025.04.04-23.12.57:316][501]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_325 (Required Memory Estimate: 0.490973 MB)...
+[2025.04.04-23.12.57:319][501]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_324
+[2025.04.04-23.12.57:319][501]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_325
+[2025.04.04-23.12.57:319][501]LogStaticMesh: Warning: WaterInfoMesh_324 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.57:319][501]LogStaticMesh: Warning: WaterInfoMesh_324 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.57:324][501]LogStaticMesh: Warning: WaterInfoMesh_326 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.12.57:324][501]LogStaticMesh: Warning: WaterInfoMesh_326 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.01:019][700]LogStaticMesh: Display: Building static mesh WaterInfoMesh_328 (Required Memory Estimate: 0.379748 MB)...
+[2025.04.04-23.13.01:019][700]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_329 (Required Memory Estimate: 0.484697 MB)...
+[2025.04.04-23.13.01:021][700]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_328
+[2025.04.04-23.13.01:022][700]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_329
+[2025.04.04-23.13.01:022][700]LogStaticMesh: Warning: WaterInfoMesh_328 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.01:022][700]LogStaticMesh: Warning: WaterInfoMesh_328 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.01:027][700]LogStaticMesh: Warning: WaterInfoMesh_330 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.01:027][700]LogStaticMesh: Warning: WaterInfoMesh_330 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.04:677][898]LogStaticMesh: Display: Building static mesh WaterInfoMesh_332 (Required Memory Estimate: 0.405089 MB)...
+[2025.04.04-23.13.04:677][898]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_333 (Required Memory Estimate: 0.516127 MB)...
+[2025.04.04-23.13.04:680][898]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_332
+[2025.04.04-23.13.04:680][898]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_333
+[2025.04.04-23.13.04:680][898]LogStaticMesh: Warning: WaterInfoMesh_332 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.04:680][898]LogStaticMesh: Warning: WaterInfoMesh_332 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.04:685][898]LogStaticMesh: Warning: WaterInfoMesh_334 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.04:685][898]LogStaticMesh: Warning: WaterInfoMesh_334 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.07:579][ 39]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_337 (Required Memory Estimate: 0.522375 MB)...
+[2025.04.04-23.13.07:579][ 39]LogStaticMesh: Display: Building static mesh WaterInfoMesh_336 (Required Memory Estimate: 0.410136 MB)...
+[2025.04.04-23.13.07:581][ 39]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_336
+[2025.04.04-23.13.07:581][ 39]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_337
+[2025.04.04-23.13.07:581][ 39]LogStaticMesh: Warning: WaterInfoMesh_336 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.07:581][ 39]LogStaticMesh: Warning: WaterInfoMesh_336 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.07:587][ 39]LogStaticMesh: Warning: WaterInfoMesh_338 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.07:587][ 39]LogStaticMesh: Warning: WaterInfoMesh_338 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.08:578][ 90]LogStaticMesh: Display: Building static mesh WaterInfoMesh_340 (Required Memory Estimate: 0.415236 MB)...
+[2025.04.04-23.13.08:578][ 90]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_341 (Required Memory Estimate: 0.52865 MB)...
+[2025.04.04-23.13.08:580][ 90]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_340
+[2025.04.04-23.13.08:580][ 90]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_341
+[2025.04.04-23.13.08:580][ 90]LogStaticMesh: Warning: WaterInfoMesh_340 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.08:580][ 90]LogStaticMesh: Warning: WaterInfoMesh_340 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.08:585][ 90]LogStaticMesh: Warning: WaterInfoMesh_342 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.08:586][ 90]LogStaticMesh: Warning: WaterInfoMesh_342 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.12:073][273]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_345 (Required Memory Estimate: 0.534899 MB)...
+[2025.04.04-23.13.12:073][273]LogStaticMesh: Display: Building static mesh WaterInfoMesh_344 (Required Memory Estimate: 0.420444 MB)...
+[2025.04.04-23.13.12:075][273]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_344
+[2025.04.04-23.13.12:075][273]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_345
+[2025.04.04-23.13.12:075][273]LogStaticMesh: Warning: WaterInfoMesh_344 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.12:076][273]LogStaticMesh: Warning: WaterInfoMesh_344 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.12:082][273]LogStaticMesh: Warning: WaterInfoMesh_346 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.12:082][273]LogStaticMesh: Warning: WaterInfoMesh_346 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.14:825][413]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_349 (Required Memory Estimate: 0.559946 MB)...
+[2025.04.04-23.13.14:825][413]LogStaticMesh: Display: Building static mesh WaterInfoMesh_348 (Required Memory Estimate: 0.440631 MB)...
+[2025.04.04-23.13.14:828][413]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_348
+[2025.04.04-23.13.14:828][413]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_349
+[2025.04.04-23.13.14:828][413]LogStaticMesh: Warning: WaterInfoMesh_348 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.14:828][413]LogStaticMesh: Warning: WaterInfoMesh_348 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.14:833][413]LogStaticMesh: Warning: WaterInfoMesh_350 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.14:833][413]LogStaticMesh: Warning: WaterInfoMesh_350 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.16:463][495]LogStaticMesh: Display: Building static mesh WaterInfoMesh_352 (Required Memory Estimate: 0.465999 MB)...
+[2025.04.04-23.13.16:463][495]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_353 (Required Memory Estimate: 0.591375 MB)...
+[2025.04.04-23.13.16:466][495]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_352
+[2025.04.04-23.13.16:466][495]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_353
+[2025.04.04-23.13.16:466][495]LogStaticMesh: Warning: WaterInfoMesh_352 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.16:466][495]LogStaticMesh: Warning: WaterInfoMesh_352 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.16:471][495]LogStaticMesh: Warning: WaterInfoMesh_354 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.16:471][495]LogStaticMesh: Warning: WaterInfoMesh_354 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.17:466][544]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_357 (Required Memory Estimate: 0.597651 MB)...
+[2025.04.04-23.13.17:466][544]LogStaticMesh: Display: Building static mesh WaterInfoMesh_356 (Required Memory Estimate: 0.471152 MB)...
+[2025.04.04-23.13.17:468][544]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_356
+[2025.04.04-23.13.17:469][544]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_357
+[2025.04.04-23.13.17:469][544]LogStaticMesh: Warning: WaterInfoMesh_356 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.17:469][544]LogStaticMesh: Warning: WaterInfoMesh_356 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.17:475][544]LogStaticMesh: Warning: WaterInfoMesh_358 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.17:475][544]LogStaticMesh: Warning: WaterInfoMesh_358 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.18:317][585]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_361 (Required Memory Estimate: 0.591375 MB)...
+[2025.04.04-23.13.18:318][585]LogStaticMesh: Display: Building static mesh WaterInfoMesh_360 (Required Memory Estimate: 0.465999 MB)...
+[2025.04.04-23.13.18:320][585]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_360
+[2025.04.04-23.13.18:320][585]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_361
+[2025.04.04-23.13.18:321][585]LogStaticMesh: Warning: WaterInfoMesh_360 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.18:321][585]LogStaticMesh: Warning: WaterInfoMesh_360 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.18:326][585]LogStaticMesh: Warning: WaterInfoMesh_362 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.18:326][585]LogStaticMesh: Warning: WaterInfoMesh_362 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.19:610][650]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_365 (Required Memory Estimate: 0.597651 MB)...
+[2025.04.04-23.13.19:610][650]LogStaticMesh: Display: Building static mesh WaterInfoMesh_364 (Required Memory Estimate: 0.471152 MB)...
+[2025.04.04-23.13.19:613][650]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_364
+[2025.04.04-23.13.19:613][650]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_365
+[2025.04.04-23.13.19:613][650]LogStaticMesh: Warning: WaterInfoMesh_364 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.19:613][650]LogStaticMesh: Warning: WaterInfoMesh_364 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.19:620][650]LogStaticMesh: Warning: WaterInfoMesh_366 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.19:620][650]LogStaticMesh: Warning: WaterInfoMesh_366 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.23:863][866]LogStaticMesh: Display: Building static mesh WaterInfoMesh_368 (Required Memory Estimate: 0.486293 MB)...
+[2025.04.04-23.13.23:863][866]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_369 (Required Memory Estimate: 0.616529 MB)...
+[2025.04.04-23.13.23:866][866]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_368
+[2025.04.04-23.13.23:867][866]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_369
+[2025.04.04-23.13.23:867][866]LogStaticMesh: Warning: WaterInfoMesh_368 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.23:867][866]LogStaticMesh: Warning: WaterInfoMesh_368 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.23:872][866]LogStaticMesh: Warning: WaterInfoMesh_370 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.23:872][866]LogStaticMesh: Warning: WaterInfoMesh_370 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.25:156][928]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_373 (Required Memory Estimate: 0.610147 MB)...
+[2025.04.04-23.13.25:156][928]LogStaticMesh: Display: Building static mesh WaterInfoMesh_372 (Required Memory Estimate: 0.481246 MB)...
+[2025.04.04-23.13.25:159][928]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_372
+[2025.04.04-23.13.25:160][928]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_373
+[2025.04.04-23.13.25:160][928]LogStaticMesh: Warning: WaterInfoMesh_372 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.25:160][928]LogStaticMesh: Warning: WaterInfoMesh_372 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.25:165][928]LogStaticMesh: Warning: WaterInfoMesh_374 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.25:165][928]LogStaticMesh: Warning: WaterInfoMesh_374 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.27:854][ 77]LogStaticMesh: Warning: WaterInfoMesh_376 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.27:854][ 77]LogStaticMesh: Warning: WaterInfoMesh_376 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.27:862][ 77]LogStaticMesh: Warning: WaterInfoMesh_378 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.27:862][ 77]LogStaticMesh: Warning: WaterInfoMesh_378 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.13.29:712][165]Cmd: SELECT NONE
+[2025.04.04-23.14.00:647][738]Cmd: SELECT NONE
+[2025.04.04-23.14.07:657][ 74]LogStaticMesh: Display: Building static mesh WaterInfoMesh_380 (Required Memory Estimate: 0.486293 MB)...
+[2025.04.04-23.14.07:657][ 74]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_381 (Required Memory Estimate: 0.616529 MB)...
+[2025.04.04-23.14.07:659][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_380
+[2025.04.04-23.14.07:659][ 74]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_381
+[2025.04.04-23.14.07:660][ 74]LogStaticMesh: Warning: WaterInfoMesh_380 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.07:660][ 74]LogStaticMesh: Warning: WaterInfoMesh_380 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.07:666][ 74]LogStaticMesh: Warning: WaterInfoMesh_382 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.07:666][ 74]LogStaticMesh: Warning: WaterInfoMesh_382 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.11:456][273]LogStaticMesh: Display: Building static mesh WaterInfoMesh_384 (Required Memory Estimate: 0.49134 MB)...
+[2025.04.04-23.14.11:456][273]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_385 (Required Memory Estimate: 0.622778 MB)...
+[2025.04.04-23.14.11:459][273]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_384
+[2025.04.04-23.14.11:459][273]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_385
+[2025.04.04-23.14.11:459][273]LogStaticMesh: Warning: WaterInfoMesh_384 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.11:459][273]LogStaticMesh: Warning: WaterInfoMesh_384 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.11:465][273]LogStaticMesh: Warning: WaterInfoMesh_386 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.11:465][273]LogStaticMesh: Warning: WaterInfoMesh_386 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.12:630][333]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_389 (Required Memory Estimate: 0.616529 MB)...
+[2025.04.04-23.14.12:631][333]LogStaticMesh: Display: Building static mesh WaterInfoMesh_388 (Required Memory Estimate: 0.486293 MB)...
+[2025.04.04-23.14.12:633][333]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_388
+[2025.04.04-23.14.12:633][333]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_389
+[2025.04.04-23.14.12:633][333]LogStaticMesh: Warning: WaterInfoMesh_388 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.12:633][333]LogStaticMesh: Warning: WaterInfoMesh_388 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.12:638][333]LogStaticMesh: Warning: WaterInfoMesh_390 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.12:638][333]LogStaticMesh: Warning: WaterInfoMesh_390 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.13:730][388]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_393 (Required Memory Estimate: 0.616529 MB)...
+[2025.04.04-23.14.13:731][388]LogStaticMesh: Display: Building static mesh WaterInfoMesh_392 (Required Memory Estimate: 0.486293 MB)...
+[2025.04.04-23.14.13:734][388]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_392
+[2025.04.04-23.14.13:734][388]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_393
+[2025.04.04-23.14.13:735][388]LogStaticMesh: Warning: WaterInfoMesh_392 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.13:735][388]LogStaticMesh: Warning: WaterInfoMesh_392 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.13:740][388]LogStaticMesh: Warning: WaterInfoMesh_394 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.13:740][388]LogStaticMesh: Warning: WaterInfoMesh_394 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.20:113][703]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_397 (Required Memory Estimate: 0.629053 MB)...
+[2025.04.04-23.14.20:113][703]LogStaticMesh: Display: Building static mesh WaterInfoMesh_396 (Required Memory Estimate: 0.49644 MB)...
+[2025.04.04-23.14.20:116][703]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_396
+[2025.04.04-23.14.20:116][703]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_397
+[2025.04.04-23.14.20:116][703]LogStaticMesh: Warning: WaterInfoMesh_396 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.20:116][703]LogStaticMesh: Warning: WaterInfoMesh_396 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.20:122][703]LogStaticMesh: Warning: WaterInfoMesh_398 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.20:122][703]LogStaticMesh: Warning: WaterInfoMesh_398 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.22:328][808]LogStaticMesh: Display: Building static mesh WaterInfoMesh_400 (Required Memory Estimate: 0.552356 MB)...
+[2025.04.04-23.14.22:328][808]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_401 (Required Memory Estimate: 0.698053 MB)...
+[2025.04.04-23.14.22:331][808]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_400
+[2025.04.04-23.14.22:332][808]LogStaticMesh: Warning: WaterInfoMesh_400 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.22:332][808]LogStaticMesh: Warning: WaterInfoMesh_400 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.22:332][808]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_401
+[2025.04.04-23.14.22:337][808]LogStaticMesh: Warning: WaterInfoMesh_402 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.22:338][808]LogStaticMesh: Warning: WaterInfoMesh_402 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.23:878][887]LogStaticMesh: Display: Building static mesh WaterInfoMesh_404 (Required Memory Estimate: 0.532035 MB)...
+[2025.04.04-23.14.23:878][887]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_405 (Required Memory Estimate: 0.672979 MB)...
+[2025.04.04-23.14.23:882][887]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_404
+[2025.04.04-23.14.23:882][887]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_405
+[2025.04.04-23.14.23:883][887]LogStaticMesh: Warning: WaterInfoMesh_404 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.23:883][887]LogStaticMesh: Warning: WaterInfoMesh_404 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.23:889][887]LogStaticMesh: Warning: WaterInfoMesh_406 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.23:889][887]LogStaticMesh: Warning: WaterInfoMesh_406 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.24:852][935]LogStaticMesh: Display: Building static mesh WaterInfoMesh_408 (Required Memory Estimate: 0.552356 MB)...
+[2025.04.04-23.14.24:852][935]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_409 (Required Memory Estimate: 0.698053 MB)...
+[2025.04.04-23.14.24:855][935]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_408
+[2025.04.04-23.14.24:855][935]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_409
+[2025.04.04-23.14.24:855][935]LogStaticMesh: Warning: WaterInfoMesh_408 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.24:856][935]LogStaticMesh: Warning: WaterInfoMesh_408 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.24:862][935]LogStaticMesh: Warning: WaterInfoMesh_410 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.24:862][935]LogStaticMesh: Warning: WaterInfoMesh_410 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.26:348][ 16]LogStaticMesh: Display: Building static mesh WaterInfoMesh_412 (Required Memory Estimate: 0.542155 MB)...
+[2025.04.04-23.14.26:348][ 16]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_413 (Required Memory Estimate: 0.685503 MB)...
+[2025.04.04-23.14.26:351][ 16]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_412
+[2025.04.04-23.14.26:352][ 16]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_413
+[2025.04.04-23.14.26:352][ 16]LogStaticMesh: Warning: WaterInfoMesh_412 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.26:352][ 16]LogStaticMesh: Warning: WaterInfoMesh_412 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.26:358][ 16]LogStaticMesh: Warning: WaterInfoMesh_414 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.26:358][ 16]LogStaticMesh: Warning: WaterInfoMesh_414 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.29:589][171]LogStaticMesh: Display: Building static mesh WaterInfoMesh_416 (Required Memory Estimate: 0.552356 MB)...
+[2025.04.04-23.14.29:589][171]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_417 (Required Memory Estimate: 0.698053 MB)...
+[2025.04.04-23.14.29:592][171]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_416
+[2025.04.04-23.14.29:592][171]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_417
+[2025.04.04-23.14.29:592][171]LogStaticMesh: Warning: WaterInfoMesh_416 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.29:592][171]LogStaticMesh: Warning: WaterInfoMesh_416 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.29:592][171]LogStaticMesh: Warning: WaterInfoMesh_416 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.29:599][171]LogStaticMesh: Warning: WaterInfoMesh_418 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.29:599][171]LogStaticMesh: Warning: WaterInfoMesh_418 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.29:599][171]LogStaticMesh: Warning: WaterInfoMesh_418 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.30:475][215]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_421 (Required Memory Estimate: 0.698053 MB)...
+[2025.04.04-23.14.30:475][215]LogStaticMesh: Display: Building static mesh WaterInfoMesh_420 (Required Memory Estimate: 0.552356 MB)...
+[2025.04.04-23.14.30:478][215]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_420
+[2025.04.04-23.14.30:478][215]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_421
+[2025.04.04-23.14.30:478][215]LogStaticMesh: Warning: WaterInfoMesh_420 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.30:478][215]LogStaticMesh: Warning: WaterInfoMesh_420 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.30:478][215]LogStaticMesh: Warning: WaterInfoMesh_420 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.30:485][215]LogStaticMesh: Warning: WaterInfoMesh_422 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.30:485][215]LogStaticMesh: Warning: WaterInfoMesh_422 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.30:485][215]LogStaticMesh: Warning: WaterInfoMesh_422 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.35:066][436]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_425 (Required Memory Estimate: 0.704302 MB)...
+[2025.04.04-23.14.35:066][436]LogStaticMesh: Display: Building static mesh WaterInfoMesh_424 (Required Memory Estimate: 0.557403 MB)...
+[2025.04.04-23.14.35:069][436]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_424
+[2025.04.04-23.14.35:069][436]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_425
+[2025.04.04-23.14.35:069][436]LogStaticMesh: Warning: WaterInfoMesh_424 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.35:069][436]LogStaticMesh: Warning: WaterInfoMesh_424 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.35:075][436]LogStaticMesh: Warning: WaterInfoMesh_426 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.35:075][436]LogStaticMesh: Warning: WaterInfoMesh_426 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.36:653][511]LogStaticMesh: Display: Building static mesh WaterInfoMesh_428 (Required Memory Estimate: 0.552356 MB)...
+[2025.04.04-23.14.36:653][511]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_429 (Required Memory Estimate: 0.698053 MB)...
+[2025.04.04-23.14.36:655][511]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_428
+[2025.04.04-23.14.36:656][511]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_429
+[2025.04.04-23.14.36:656][511]LogStaticMesh: Warning: WaterInfoMesh_428 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.36:656][511]LogStaticMesh: Warning: WaterInfoMesh_428 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.36:662][511]LogStaticMesh: Warning: WaterInfoMesh_430 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.36:662][511]LogStaticMesh: Warning: WaterInfoMesh_430 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:051][640]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_433 (Required Memory Estimate: 0.71055 MB)...
+[2025.04.04-23.14.39:051][640]LogStaticMesh: Display: Building static mesh WaterInfoMesh_432 (Required Memory Estimate: 0.562449 MB)...
+[2025.04.04-23.14.39:055][640]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_432
+[2025.04.04-23.14.39:055][640]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_433
+[2025.04.04-23.14.39:055][640]LogStaticMesh: Warning: WaterInfoMesh_432 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:055][640]LogStaticMesh: Warning: WaterInfoMesh_432 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:062][640]LogStaticMesh: Warning: WaterInfoMesh_434 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:062][640]LogStaticMesh: Warning: WaterInfoMesh_434 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:951][684]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_437 (Required Memory Estimate: 0.698053 MB)...
+[2025.04.04-23.14.39:951][684]LogStaticMesh: Display: Building static mesh WaterInfoMesh_436 (Required Memory Estimate: 0.552356 MB)...
+[2025.04.04-23.14.39:953][684]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_436
+[2025.04.04-23.14.39:953][684]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_437
+[2025.04.04-23.14.39:955][684]LogStaticMesh: Warning: WaterInfoMesh_436 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:955][684]LogStaticMesh: Warning: WaterInfoMesh_436 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:960][684]LogStaticMesh: Warning: WaterInfoMesh_438 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.39:960][684]LogStaticMesh: Warning: WaterInfoMesh_438 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.45:439][943]LogStaticMesh: Display: Building static mesh WaterInfoMesh_440 (Required Memory Estimate: 0.562449 MB)...
+[2025.04.04-23.14.45:440][943]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_441 (Required Memory Estimate: 0.71055 MB)...
+[2025.04.04-23.14.45:442][943]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_440
+[2025.04.04-23.14.45:442][943]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_441
+[2025.04.04-23.14.45:443][943]LogStaticMesh: Warning: WaterInfoMesh_440 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.45:443][943]LogStaticMesh: Warning: WaterInfoMesh_440 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.45:450][943]LogStaticMesh: Warning: WaterInfoMesh_442 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.45:450][943]LogStaticMesh: Warning: WaterInfoMesh_442 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.49:041][141]LogStaticMesh: Warning: WaterInfoMesh_444 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.49:041][141]LogStaticMesh: Warning: WaterInfoMesh_444 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.49:050][141]LogStaticMesh: Warning: WaterInfoMesh_446 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.49:050][141]LogStaticMesh: Warning: WaterInfoMesh_446 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.52:410][292]LogStaticMesh: Display: Building static mesh WaterInfoMesh_448 (Required Memory Estimate: 0.592944 MB)...
+[2025.04.04-23.14.52:410][292]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_449 (Required Memory Estimate: 0.748255 MB)...
+[2025.04.04-23.14.52:413][292]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_448
+[2025.04.04-23.14.52:413][292]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_449
+[2025.04.04-23.14.52:414][292]LogStaticMesh: Warning: WaterInfoMesh_448 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.52:414][292]LogStaticMesh: Warning: WaterInfoMesh_448 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.52:419][292]LogStaticMesh: Warning: WaterInfoMesh_450 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.52:419][292]LogStaticMesh: Warning: WaterInfoMesh_450 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.54:211][359]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_453 (Required Memory Estimate: 0.74198 MB)...
+[2025.04.04-23.14.54:211][359]LogStaticMesh: Display: Building static mesh WaterInfoMesh_452 (Required Memory Estimate: 0.587897 MB)...
+[2025.04.04-23.14.54:215][359]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_452
+[2025.04.04-23.14.54:215][359]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_453
+[2025.04.04-23.14.54:215][359]LogStaticMesh: Warning: WaterInfoMesh_452 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.54:215][359]LogStaticMesh: Warning: WaterInfoMesh_452 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.54:222][359]LogStaticMesh: Warning: WaterInfoMesh_454 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.54:223][359]LogStaticMesh: Warning: WaterInfoMesh_454 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.56:620][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2159.396729
+[2025.04.04-23.14.56:803][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.04-23.14.56:803][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2159.562988, Update Interval: 339.480591
+[2025.04.04-23.14.57:435][513]LogStaticMesh: Display: Building static mesh WaterInfoMesh_456 (Required Memory Estimate: 0.587897 MB)...
+[2025.04.04-23.14.57:435][513]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_457 (Required Memory Estimate: 0.74198 MB)...
+[2025.04.04-23.14.57:438][513]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_456
+[2025.04.04-23.14.57:438][513]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_457
+[2025.04.04-23.14.57:439][513]LogStaticMesh: Warning: WaterInfoMesh_456 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.57:439][513]LogStaticMesh: Warning: WaterInfoMesh_456 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.57:445][513]LogStaticMesh: Warning: WaterInfoMesh_458 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.57:445][513]LogStaticMesh: Warning: WaterInfoMesh_458 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:346][557]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_461 (Required Memory Estimate: 0.754503 MB)...
+[2025.04.04-23.14.58:347][557]LogStaticMesh: Display: Building static mesh WaterInfoMesh_460 (Required Memory Estimate: 0.597991 MB)...
+[2025.04.04-23.14.58:349][557]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_460
+[2025.04.04-23.14.58:349][557]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_461
+[2025.04.04-23.14.58:349][557]LogStaticMesh: Warning: WaterInfoMesh_460 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:349][557]LogStaticMesh: Warning: WaterInfoMesh_460 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:356][557]LogStaticMesh: Warning: WaterInfoMesh_462 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:356][557]LogStaticMesh: Warning: WaterInfoMesh_462 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:935][584]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_465 (Required Memory Estimate: 0.754503 MB)...
+[2025.04.04-23.14.58:935][584]LogStaticMesh: Display: Building static mesh WaterInfoMesh_464 (Required Memory Estimate: 0.597991 MB)...
+[2025.04.04-23.14.58:938][584]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_464
+[2025.04.04-23.14.58:938][584]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_465
+[2025.04.04-23.14.58:939][584]LogStaticMesh: Warning: WaterInfoMesh_464 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:939][584]LogStaticMesh: Warning: WaterInfoMesh_464 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:945][584]LogStaticMesh: Warning: WaterInfoMesh_466 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.58:945][584]LogStaticMesh: Warning: WaterInfoMesh_466 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.59:967][636]LogStaticMesh: Display: Building static mesh WaterInfoMesh_468 (Required Memory Estimate: 0.603038 MB)...
+[2025.04.04-23.14.59:968][636]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_469 (Required Memory Estimate: 0.760752 MB)...
+[2025.04.04-23.14.59:970][636]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_468
+[2025.04.04-23.14.59:971][636]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_469
+[2025.04.04-23.14.59:971][636]LogStaticMesh: Warning: WaterInfoMesh_468 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.59:971][636]LogStaticMesh: Warning: WaterInfoMesh_468 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.59:978][636]LogStaticMesh: Warning: WaterInfoMesh_470 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.14.59:978][636]LogStaticMesh: Warning: WaterInfoMesh_470 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.02:310][758]LogStaticMesh: Display: Building static mesh WaterInfoMesh_472 (Required Memory Estimate: 0.597991 MB)...
+[2025.04.04-23.15.02:311][758]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_473 (Required Memory Estimate: 0.754503 MB)...
+[2025.04.04-23.15.02:313][758]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_472
+[2025.04.04-23.15.02:313][758]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_473
+[2025.04.04-23.15.02:315][758]LogStaticMesh: Warning: WaterInfoMesh_472 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.02:315][758]LogStaticMesh: Warning: WaterInfoMesh_472 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.02:320][758]LogStaticMesh: Warning: WaterInfoMesh_474 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.02:320][758]LogStaticMesh: Warning: WaterInfoMesh_474 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.03:891][842]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_477 (Required Memory Estimate: 0.754503 MB)...
+[2025.04.04-23.15.03:891][842]LogStaticMesh: Display: Building static mesh WaterInfoMesh_476 (Required Memory Estimate: 0.597991 MB)...
+[2025.04.04-23.15.03:895][842]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_476
+[2025.04.04-23.15.03:895][842]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_477
+[2025.04.04-23.15.03:895][842]LogStaticMesh: Warning: WaterInfoMesh_476 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.03:895][842]LogStaticMesh: Warning: WaterInfoMesh_476 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.03:901][842]LogStaticMesh: Warning: WaterInfoMesh_478 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.03:901][842]LogStaticMesh: Warning: WaterInfoMesh_478 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.04:741][884]LogStaticMesh: Display: Building static mesh WaterInfoMesh_480 (Required Memory Estimate: 0.597991 MB)...
+[2025.04.04-23.15.04:741][884]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_481 (Required Memory Estimate: 0.754503 MB)...
+[2025.04.04-23.15.04:743][884]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_480
+[2025.04.04-23.15.04:745][884]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_481
+[2025.04.04-23.15.04:745][884]LogStaticMesh: Warning: WaterInfoMesh_480 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.04:745][884]LogStaticMesh: Warning: WaterInfoMesh_480 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.04:751][884]LogStaticMesh: Warning: WaterInfoMesh_482 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.04:752][884]LogStaticMesh: Warning: WaterInfoMesh_482 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.05:341][912]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_485 (Required Memory Estimate: 0.754503 MB)...
+[2025.04.04-23.15.05:341][912]LogStaticMesh: Display: Building static mesh WaterInfoMesh_484 (Required Memory Estimate: 0.597991 MB)...
+[2025.04.04-23.15.05:344][912]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_484
+[2025.04.04-23.15.05:344][912]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_485
+[2025.04.04-23.15.05:344][912]LogStaticMesh: Warning: WaterInfoMesh_484 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.05:344][912]LogStaticMesh: Warning: WaterInfoMesh_484 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.05:351][912]LogStaticMesh: Warning: WaterInfoMesh_486 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.05:351][912]LogStaticMesh: Warning: WaterInfoMesh_486 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.07:362][ 25]LogStaticMesh: Warning: WaterInfoMesh_488 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.07:362][ 25]LogStaticMesh: Warning: WaterInfoMesh_488 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.07:371][ 25]LogStaticMesh: Warning: WaterInfoMesh_490 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.07:371][ 25]LogStaticMesh: Warning: WaterInfoMesh_490 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:196][ 66]LogStaticMesh: Display: Building static mesh WaterInfoMesh_492 (Required Memory Estimate: 0.597991 MB)...
+[2025.04.04-23.15.08:196][ 66]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_493 (Required Memory Estimate: 0.754503 MB)...
+[2025.04.04-23.15.08:199][ 66]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_492
+[2025.04.04-23.15.08:199][ 66]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_493
+[2025.04.04-23.15.08:199][ 66]LogStaticMesh: Warning: WaterInfoMesh_492 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:199][ 66]LogStaticMesh: Warning: WaterInfoMesh_492 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:206][ 66]LogStaticMesh: Warning: WaterInfoMesh_494 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:206][ 66]LogStaticMesh: Warning: WaterInfoMesh_494 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:819][ 96]LogStaticMesh: Display: Building static mesh WaterInfoMesh_496 (Required Memory Estimate: 0.603038 MB)...
+[2025.04.04-23.15.08:819][ 96]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_497 (Required Memory Estimate: 0.760752 MB)...
+[2025.04.04-23.15.08:822][ 96]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_496
+[2025.04.04-23.15.08:822][ 96]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_497
+[2025.04.04-23.15.08:823][ 96]LogStaticMesh: Warning: WaterInfoMesh_496 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:823][ 96]LogStaticMesh: Warning: WaterInfoMesh_496 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:829][ 96]LogStaticMesh: Warning: WaterInfoMesh_498 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.08:829][ 96]LogStaticMesh: Warning: WaterInfoMesh_498 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.09:361][121]LogStaticMesh: Display: Building static mesh WaterInfoMesh_500 (Required Memory Estimate: 0.603038 MB)...
+[2025.04.04-23.15.09:361][121]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_501 (Required Memory Estimate: 0.760752 MB)...
+[2025.04.04-23.15.09:363][121]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_500
+[2025.04.04-23.15.09:365][121]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_501
+[2025.04.04-23.15.09:365][121]LogStaticMesh: Warning: WaterInfoMesh_500 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.09:365][121]LogStaticMesh: Warning: WaterInfoMesh_500 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.09:371][121]LogStaticMesh: Warning: WaterInfoMesh_502 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.09:371][121]LogStaticMesh: Warning: WaterInfoMesh_502 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.10:884][201]LogStaticMesh: Display: Building static mesh WaterInfoMesh_504 (Required Memory Estimate: 0.603038 MB)...
+[2025.04.04-23.15.10:884][201]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_505 (Required Memory Estimate: 0.760752 MB)...
+[2025.04.04-23.15.10:887][201]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_504
+[2025.04.04-23.15.10:887][201]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_505
+[2025.04.04-23.15.10:887][201]LogStaticMesh: Warning: WaterInfoMesh_504 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.10:889][201]LogStaticMesh: Warning: WaterInfoMesh_504 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.10:895][201]LogStaticMesh: Warning: WaterInfoMesh_506 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.10:895][201]LogStaticMesh: Warning: WaterInfoMesh_506 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.14:446][397]LogStaticMesh: Warning: WaterInfoMesh_508 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.14:446][397]LogStaticMesh: Warning: WaterInfoMesh_508 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.14:454][397]LogStaticMesh: Warning: WaterInfoMesh_510 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.14:454][397]LogStaticMesh: Warning: WaterInfoMesh_510 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.15:740][433]LogStaticMesh: Display: Building static mesh WaterInfoMesh_512 (Required Memory Estimate: 0.603038 MB)...
+[2025.04.04-23.15.15:740][433]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_513 (Required Memory Estimate: 0.760752 MB)...
+[2025.04.04-23.15.15:743][433]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_512
+[2025.04.04-23.15.15:743][433]LogStaticMesh: Warning: WaterInfoMesh_512 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.15:743][433]LogStaticMesh: Warning: WaterInfoMesh_512 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.15:744][433]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_513
+[2025.04.04-23.15.15:749][433]LogStaticMesh: Warning: WaterInfoMesh_514 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.15:749][433]LogStaticMesh: Warning: WaterInfoMesh_514 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.17:950][551]LogStaticMesh: Warning: WaterInfoMesh_516 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.17:951][551]LogStaticMesh: Warning: WaterInfoMesh_516 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.17:959][551]LogStaticMesh: Warning: WaterInfoMesh_518 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.17:959][551]LogStaticMesh: Warning: WaterInfoMesh_518 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.15.18:197][560]Cmd: SELECT NONE
+[2025.04.04-23.16.13:268][275]Cmd: SELECT NONE
+[2025.04.04-23.16.18:094][511]LogStaticMesh: Display: Building static mesh WaterInfoMesh_520 (Required Memory Estimate: 0.608191 MB)...
+[2025.04.04-23.16.18:094][511]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_521 (Required Memory Estimate: 0.767134 MB)...
+[2025.04.04-23.16.18:097][511]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_520
+[2025.04.04-23.16.18:097][511]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_521
+[2025.04.04-23.16.18:098][511]LogStaticMesh: Warning: WaterInfoMesh_520 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.18:098][511]LogStaticMesh: Warning: WaterInfoMesh_520 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.18:104][511]LogStaticMesh: Warning: WaterInfoMesh_522 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.18:104][511]LogStaticMesh: Warning: WaterInfoMesh_522 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.21:495][689]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_525 (Required Memory Estimate: 0.823584 MB)...
+[2025.04.04-23.16.21:495][689]LogStaticMesh: Display: Building static mesh WaterInfoMesh_524 (Required Memory Estimate: 0.653747 MB)...
+[2025.04.04-23.16.21:498][689]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_524
+[2025.04.04-23.16.21:498][689]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_525
+[2025.04.04-23.16.21:499][689]LogStaticMesh: Warning: WaterInfoMesh_524 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.21:499][689]LogStaticMesh: Warning: WaterInfoMesh_524 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.21:504][689]LogStaticMesh: Warning: WaterInfoMesh_526 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.21:505][689]LogStaticMesh: Warning: WaterInfoMesh_526 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.22:869][759]LogStaticMesh: Display: Building static mesh WaterInfoMesh_528 (Required Memory Estimate: 0.653747 MB)...
+[2025.04.04-23.16.22:869][759]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_529 (Required Memory Estimate: 0.823584 MB)...
+[2025.04.04-23.16.22:872][759]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_528
+[2025.04.04-23.16.22:873][759]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_529
+[2025.04.04-23.16.22:873][759]LogStaticMesh: Warning: WaterInfoMesh_528 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.22:873][759]LogStaticMesh: Warning: WaterInfoMesh_528 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.22:878][759]LogStaticMesh: Warning: WaterInfoMesh_530 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.22:878][759]LogStaticMesh: Warning: WaterInfoMesh_530 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.25:657][898]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_533 (Required Memory Estimate: 0.810953 MB)...
+[2025.04.04-23.16.25:657][898]LogStaticMesh: Display: Building static mesh WaterInfoMesh_532 (Required Memory Estimate: 0.643653 MB)...
+[2025.04.04-23.16.25:660][898]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_532
+[2025.04.04-23.16.25:660][898]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_533
+[2025.04.04-23.16.25:661][898]LogStaticMesh: Warning: WaterInfoMesh_532 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.25:661][898]LogStaticMesh: Warning: WaterInfoMesh_532 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.25:666][898]LogStaticMesh: Warning: WaterInfoMesh_534 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.25:666][898]LogStaticMesh: Warning: WaterInfoMesh_534 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.26:815][957]LogStaticMesh: Display: Building static mesh WaterInfoMesh_536 (Required Memory Estimate: 0.628406 MB)...
+[2025.04.04-23.16.26:815][957]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_537 (Required Memory Estimate: 0.792181 MB)...
+[2025.04.04-23.16.26:819][957]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_536
+[2025.04.04-23.16.26:819][957]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_537
+[2025.04.04-23.16.26:820][957]LogStaticMesh: Warning: WaterInfoMesh_536 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.26:820][957]LogStaticMesh: Warning: WaterInfoMesh_536 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.26:826][957]LogStaticMesh: Warning: WaterInfoMesh_538 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.26:826][957]LogStaticMesh: Warning: WaterInfoMesh_538 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.30:139][113]LogStaticMesh: Display: Building static mesh WaterInfoMesh_540 (Required Memory Estimate: 0.643653 MB)...
+[2025.04.04-23.16.30:139][113]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_541 (Required Memory Estimate: 0.810953 MB)...
+[2025.04.04-23.16.30:142][113]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_540
+[2025.04.04-23.16.30:142][113]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_541
+[2025.04.04-23.16.30:143][113]LogStaticMesh: Warning: WaterInfoMesh_540 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.30:143][113]LogStaticMesh: Warning: WaterInfoMesh_540 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.30:149][113]LogStaticMesh: Warning: WaterInfoMesh_542 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.30:149][113]LogStaticMesh: Warning: WaterInfoMesh_542 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.32:288][205]LogStaticMesh: Display: Building static mesh WaterInfoMesh_544 (Required Memory Estimate: 0.643653 MB)...
+[2025.04.04-23.16.32:288][205]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_545 (Required Memory Estimate: 0.810953 MB)...
+[2025.04.04-23.16.32:290][205]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_544
+[2025.04.04-23.16.32:290][205]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_545
+[2025.04.04-23.16.32:291][205]LogStaticMesh: Warning: WaterInfoMesh_544 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.32:291][205]LogStaticMesh: Warning: WaterInfoMesh_544 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.32:297][205]LogStaticMesh: Warning: WaterInfoMesh_546 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.32:297][205]LogStaticMesh: Warning: WaterInfoMesh_546 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.56:628][441]Cmd: TRANSACTION UNDO
+[2025.04.04-23.16.56:628][441]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.04.04-23.16.56:660][441]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.16.56:661][441]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.16.57:377][457]Cmd: TRANSACTION UNDO
+[2025.04.04-23.16.57:377][457]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.04.04-23.16.57:407][457]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.16.57:407][457]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.16.58:064][485]Cmd: TRANSACTION UNDO
+[2025.04.04-23.16.58:064][485]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.04-23.16.58:089][485]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.16.58:690][509]Cmd: TRANSACTION UNDO
+[2025.04.04-23.16.58:690][509]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.04-23.16.58:719][509]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.16.59:383][536]Cmd: TRANSACTION UNDO
+[2025.04.04-23.16.59:383][536]LogEditorTransaction: Undo Move Elements
+[2025.04.04-23.16.59:402][536]LogStaticMesh: Warning: WaterInfoMesh_548 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:402][536]LogStaticMesh: Warning: WaterInfoMesh_548 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:408][536]LogStaticMesh: Warning: WaterInfoMesh_550 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:409][536]LogStaticMesh: Warning: WaterInfoMesh_550 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:415][536]LogStaticMesh: Warning: WaterInfoMesh_552 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:415][536]LogStaticMesh: Warning: WaterInfoMesh_552 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:421][536]LogStaticMesh: Warning: WaterInfoMesh_554 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:421][536]LogStaticMesh: Warning: WaterInfoMesh_554 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:976][560]Cmd: TRANSACTION UNDO
+[2025.04.04-23.16.59:976][560]LogEditorTransaction: Undo Move Elements
+[2025.04.04-23.16.59:993][560]LogStaticMesh: Warning: WaterInfoMesh_556 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:993][560]LogStaticMesh: Warning: WaterInfoMesh_556 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:999][560]LogStaticMesh: Warning: WaterInfoMesh_558 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.16.59:999][560]LogStaticMesh: Warning: WaterInfoMesh_558 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:008][560]LogStaticMesh: Warning: WaterInfoMesh_560 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:008][560]LogStaticMesh: Warning: WaterInfoMesh_560 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:015][560]LogStaticMesh: Warning: WaterInfoMesh_562 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:015][560]LogStaticMesh: Warning: WaterInfoMesh_562 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:663][587]Cmd: TRANSACTION UNDO
+[2025.04.04-23.17.00:663][587]LogEditorTransaction: Undo Move Elements
+[2025.04.04-23.17.00:685][587]LogStaticMesh: Warning: WaterInfoMesh_564 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:686][587]LogStaticMesh: Warning: WaterInfoMesh_564 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:692][587]LogStaticMesh: Warning: WaterInfoMesh_566 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:692][587]LogStaticMesh: Warning: WaterInfoMesh_566 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:699][587]LogStaticMesh: Warning: WaterInfoMesh_568 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:699][587]LogStaticMesh: Warning: WaterInfoMesh_568 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:707][587]LogStaticMesh: Warning: WaterInfoMesh_570 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.00:707][587]LogStaticMesh: Warning: WaterInfoMesh_570 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:829][630]Cmd: TRANSACTION UNDO
+[2025.04.04-23.17.01:829][630]LogEditorTransaction: Undo Move Elements
+[2025.04.04-23.17.01:846][630]LogStaticMesh: Warning: WaterInfoMesh_572 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:847][630]LogStaticMesh: Warning: WaterInfoMesh_572 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:853][630]LogStaticMesh: Warning: WaterInfoMesh_574 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:853][630]LogStaticMesh: Warning: WaterInfoMesh_574 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:860][630]LogStaticMesh: Warning: WaterInfoMesh_576 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:860][630]LogStaticMesh: Warning: WaterInfoMesh_576 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:866][630]LogStaticMesh: Warning: WaterInfoMesh_578 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.01:866][630]LogStaticMesh: Warning: WaterInfoMesh_578 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.03:509][713]Cmd: TRANSACTION UNDO
+[2025.04.04-23.17.03:509][713]LogEditorTransaction: Undo Select Spline Point
+[2025.04.04-23.17.04:556][763]Cmd: SELECT NONE
+[2025.04.04-23.17.12:923][161]LogStaticMesh: Display: Building static mesh WaterInfoMesh_580 (Required Memory Estimate: 0.643653 MB)...
+[2025.04.04-23.17.12:923][161]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_581 (Required Memory Estimate: 0.810953 MB)...
+[2025.04.04-23.17.12:926][161]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_580
+[2025.04.04-23.17.12:927][161]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_581
+[2025.04.04-23.17.12:927][161]LogStaticMesh: Warning: WaterInfoMesh_580 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.12:927][161]LogStaticMesh: Warning: WaterInfoMesh_580 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.12:933][161]LogStaticMesh: Warning: WaterInfoMesh_582 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.12:933][161]LogStaticMesh: Warning: WaterInfoMesh_582 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.16:644][347]LogStaticMesh: Display: Building static mesh WaterInfoMesh_584 (Required Memory Estimate: 0.658847 MB)...
+[2025.04.04-23.17.16:644][347]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_585 (Required Memory Estimate: 0.829859 MB)...
+[2025.04.04-23.17.16:647][347]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_584
+[2025.04.04-23.17.16:647][347]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_585
+[2025.04.04-23.17.16:648][347]LogStaticMesh: Warning: WaterInfoMesh_584 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.16:648][347]LogStaticMesh: Warning: WaterInfoMesh_584 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.16:655][347]LogStaticMesh: Warning: WaterInfoMesh_586 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.16:655][347]LogStaticMesh: Warning: WaterInfoMesh_586 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.19:780][500]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_589 (Required Memory Estimate: 0.873785 MB)...
+[2025.04.04-23.17.19:780][500]LogStaticMesh: Display: Building static mesh WaterInfoMesh_588 (Required Memory Estimate: 0.694442 MB)...
+[2025.04.04-23.17.19:783][500]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_588
+[2025.04.04-23.17.19:783][500]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_589
+[2025.04.04-23.17.19:784][500]LogStaticMesh: Warning: WaterInfoMesh_588 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.19:784][500]LogStaticMesh: Warning: WaterInfoMesh_588 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.19:790][500]LogStaticMesh: Warning: WaterInfoMesh_590 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.19:790][500]LogStaticMesh: Warning: WaterInfoMesh_590 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.22:849][641]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_593 (Required Memory Estimate: 0.867537 MB)...
+[2025.04.04-23.17.22:849][641]LogStaticMesh: Display: Building static mesh WaterInfoMesh_592 (Required Memory Estimate: 0.689395 MB)...
+[2025.04.04-23.17.22:852][641]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_592
+[2025.04.04-23.17.22:853][641]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_593
+[2025.04.04-23.17.22:853][641]LogStaticMesh: Warning: WaterInfoMesh_592 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.22:853][641]LogStaticMesh: Warning: WaterInfoMesh_592 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.22:863][641]LogStaticMesh: Warning: WaterInfoMesh_594 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.22:863][641]LogStaticMesh: Warning: WaterInfoMesh_594 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.25:914][777]LogStaticMesh: Display: Building static mesh WaterInfoMesh_596 (Required Memory Estimate: 0.689395 MB)...
+[2025.04.04-23.17.25:914][777]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_597 (Required Memory Estimate: 0.867537 MB)...
+[2025.04.04-23.17.25:917][777]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_596
+[2025.04.04-23.17.25:918][777]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_597
+[2025.04.04-23.17.25:918][777]LogStaticMesh: Warning: WaterInfoMesh_596 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.25:918][777]LogStaticMesh: Warning: WaterInfoMesh_596 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.25:925][777]LogStaticMesh: Warning: WaterInfoMesh_598 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.25:925][777]LogStaticMesh: Warning: WaterInfoMesh_598 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.26:753][816]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_601 (Required Memory Estimate: 0.867537 MB)...
+[2025.04.04-23.17.26:753][816]LogStaticMesh: Display: Building static mesh WaterInfoMesh_600 (Required Memory Estimate: 0.689395 MB)...
+[2025.04.04-23.17.26:758][816]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_600
+[2025.04.04-23.17.26:758][816]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_601
+[2025.04.04-23.17.26:758][816]LogStaticMesh: Warning: WaterInfoMesh_600 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.26:759][816]LogStaticMesh: Warning: WaterInfoMesh_600 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.26:765][816]LogStaticMesh: Warning: WaterInfoMesh_602 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.26:765][816]LogStaticMesh: Warning: WaterInfoMesh_602 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.27:794][868]LogStaticMesh: Display: Building static mesh WaterInfoMesh_604 (Required Memory Estimate: 0.689395 MB)...
+[2025.04.04-23.17.27:794][868]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_605 (Required Memory Estimate: 0.867537 MB)...
+[2025.04.04-23.17.27:797][868]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_604
+[2025.04.04-23.17.27:798][868]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_605
+[2025.04.04-23.17.27:798][868]LogStaticMesh: Warning: WaterInfoMesh_604 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.27:798][868]LogStaticMesh: Warning: WaterInfoMesh_604 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.27:804][868]LogStaticMesh: Warning: WaterInfoMesh_606 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.27:804][868]LogStaticMesh: Warning: WaterInfoMesh_606 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.31:715][ 45]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_609 (Required Memory Estimate: 0.873785 MB)...
+[2025.04.04-23.17.31:715][ 45]LogStaticMesh: Display: Building static mesh WaterInfoMesh_608 (Required Memory Estimate: 0.694442 MB)...
+[2025.04.04-23.17.31:717][ 45]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_609
+[2025.04.04-23.17.31:717][ 45]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_608
+[2025.04.04-23.17.31:719][ 45]LogStaticMesh: Warning: WaterInfoMesh_608 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.31:719][ 45]LogStaticMesh: Warning: WaterInfoMesh_608 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.31:725][ 45]LogStaticMesh: Warning: WaterInfoMesh_610 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.31:725][ 45]LogStaticMesh: Warning: WaterInfoMesh_610 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.33:919][140]LogStaticMesh: Display: Building static mesh WaterInfoMesh_612 (Required Memory Estimate: 0.684241 MB)...
+[2025.04.04-23.17.33:919][140]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_613 (Required Memory Estimate: 0.861155 MB)...
+[2025.04.04-23.17.33:923][140]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_613
+[2025.04.04-23.17.33:923][140]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_612
+[2025.04.04-23.17.33:923][140]LogStaticMesh: Warning: WaterInfoMesh_612 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.33:924][140]LogStaticMesh: Warning: WaterInfoMesh_612 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.33:931][140]LogStaticMesh: Warning: WaterInfoMesh_614 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.33:931][140]LogStaticMesh: Warning: WaterInfoMesh_614 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.42:413][584]LogStaticMesh: Warning: WaterInfoMesh_616 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.42:413][584]LogStaticMesh: Warning: WaterInfoMesh_616 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.42:424][584]LogStaticMesh: Warning: WaterInfoMesh_618 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.42:424][584]LogStaticMesh: Warning: WaterInfoMesh_618 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.17.42:713][593]Cmd: SELECT NONE
+[2025.04.04-23.18.25:664][716]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_621 (Required Memory Estimate: 0.861155 MB)...
+[2025.04.04-23.18.25:664][716]LogStaticMesh: Display: Building static mesh WaterInfoMesh_620 (Required Memory Estimate: 0.684241 MB)...
+[2025.04.04-23.18.25:667][716]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_620
+[2025.04.04-23.18.25:667][716]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_621
+[2025.04.04-23.18.25:667][716]LogStaticMesh: Warning: WaterInfoMesh_620 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.25:667][716]LogStaticMesh: Warning: WaterInfoMesh_620 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.25:677][716]LogStaticMesh: Warning: WaterInfoMesh_622 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.25:677][716]LogStaticMesh: Warning: WaterInfoMesh_622 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.29:424][875]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_625 (Required Memory Estimate: 0.836107 MB)...
+[2025.04.04-23.18.29:424][875]LogStaticMesh: Display: Building static mesh WaterInfoMesh_624 (Required Memory Estimate: 0.664054 MB)...
+[2025.04.04-23.18.29:427][875]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_624
+[2025.04.04-23.18.29:427][875]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_625
+[2025.04.04-23.18.29:428][875]LogStaticMesh: Warning: WaterInfoMesh_624 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.29:428][875]LogStaticMesh: Warning: WaterInfoMesh_624 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.29:435][875]LogStaticMesh: Warning: WaterInfoMesh_626 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.29:435][875]LogStaticMesh: Warning: WaterInfoMesh_626 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.31:537][990]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_629 (Required Memory Estimate: 0.854906 MB)...
+[2025.04.04-23.18.31:537][990]LogStaticMesh: Display: Building static mesh WaterInfoMesh_628 (Required Memory Estimate: 0.679194 MB)...
+[2025.04.04-23.18.31:540][990]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_628
+[2025.04.04-23.18.31:541][990]LogStaticMesh: Warning: WaterInfoMesh_628 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.31:541][990]LogStaticMesh: Warning: WaterInfoMesh_628 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.31:541][990]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_629
+[2025.04.04-23.18.31:548][990]LogStaticMesh: Warning: WaterInfoMesh_630 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.31:548][990]LogStaticMesh: Warning: WaterInfoMesh_630 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.32:241][ 23]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_633 (Required Memory Estimate: 0.848658 MB)...
+[2025.04.04-23.18.32:241][ 23]LogStaticMesh: Display: Building static mesh WaterInfoMesh_632 (Required Memory Estimate: 0.674148 MB)...
+[2025.04.04-23.18.32:244][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_632
+[2025.04.04-23.18.32:245][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_633
+[2025.04.04-23.18.32:245][ 23]LogStaticMesh: Warning: WaterInfoMesh_632 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.32:245][ 23]LogStaticMesh: Warning: WaterInfoMesh_632 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.32:253][ 23]LogStaticMesh: Warning: WaterInfoMesh_634 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.32:253][ 23]LogStaticMesh: Warning: WaterInfoMesh_634 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.33:189][ 71]LogStaticMesh: Display: Building static mesh WaterInfoMesh_636 (Required Memory Estimate: 0.674148 MB)...
+[2025.04.04-23.18.33:189][ 71]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_637 (Required Memory Estimate: 0.848658 MB)...
+[2025.04.04-23.18.33:192][ 71]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_636
+[2025.04.04-23.18.33:193][ 71]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_637
+[2025.04.04-23.18.33:193][ 71]LogStaticMesh: Warning: WaterInfoMesh_636 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.33:193][ 71]LogStaticMesh: Warning: WaterInfoMesh_636 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.33:201][ 71]LogStaticMesh: Warning: WaterInfoMesh_638 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.33:201][ 71]LogStaticMesh: Warning: WaterInfoMesh_638 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.34:909][159]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_641 (Required Memory Estimate: 0.848658 MB)...
+[2025.04.04-23.18.34:909][159]LogStaticMesh: Display: Building static mesh WaterInfoMesh_640 (Required Memory Estimate: 0.674148 MB)...
+[2025.04.04-23.18.34:912][159]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_640
+[2025.04.04-23.18.34:912][159]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_641
+[2025.04.04-23.18.34:912][159]LogStaticMesh: Warning: WaterInfoMesh_640 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.34:912][159]LogStaticMesh: Warning: WaterInfoMesh_640 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.34:919][159]LogStaticMesh: Warning: WaterInfoMesh_642 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.34:919][159]LogStaticMesh: Warning: WaterInfoMesh_642 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.35:780][203]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_645 (Required Memory Estimate: 0.842382 MB)...
+[2025.04.04-23.18.35:780][203]LogStaticMesh: Display: Building static mesh WaterInfoMesh_644 (Required Memory Estimate: 0.669101 MB)...
+[2025.04.04-23.18.35:784][203]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_644
+[2025.04.04-23.18.35:784][203]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_645
+[2025.04.04-23.18.35:784][203]LogStaticMesh: Warning: WaterInfoMesh_644 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.35:784][203]LogStaticMesh: Warning: WaterInfoMesh_644 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.35:792][203]LogStaticMesh: Warning: WaterInfoMesh_646 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.35:792][203]LogStaticMesh: Warning: WaterInfoMesh_646 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.41:656][505]LogStaticMesh: Display: Building static mesh WaterInfoMesh_648 (Required Memory Estimate: 0.669101 MB)...
+[2025.04.04-23.18.41:656][505]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_649 (Required Memory Estimate: 0.842382 MB)...
+[2025.04.04-23.18.41:660][505]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_648
+[2025.04.04-23.18.41:660][505]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_649
+[2025.04.04-23.18.41:661][505]LogStaticMesh: Warning: WaterInfoMesh_648 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.41:661][505]LogStaticMesh: Warning: WaterInfoMesh_648 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.41:667][505]LogStaticMesh: Warning: WaterInfoMesh_650 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.41:667][505]LogStaticMesh: Warning: WaterInfoMesh_650 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.42:381][537]LogStaticMesh: Display: Building static mesh WaterInfoMesh_652 (Required Memory Estimate: 0.669101 MB)...
+[2025.04.04-23.18.42:381][537]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_653 (Required Memory Estimate: 0.842382 MB)...
+[2025.04.04-23.18.42:384][537]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_652
+[2025.04.04-23.18.42:384][537]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_653
+[2025.04.04-23.18.42:385][537]LogStaticMesh: Warning: WaterInfoMesh_652 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.42:385][537]LogStaticMesh: Warning: WaterInfoMesh_652 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.42:392][537]LogStaticMesh: Warning: WaterInfoMesh_654 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.42:392][537]LogStaticMesh: Warning: WaterInfoMesh_654 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.45:198][659]LogStaticMesh: Display: Building static mesh WaterInfoMesh_656 (Required Memory Estimate: 0.674148 MB)...
+[2025.04.04-23.18.45:198][659]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_657 (Required Memory Estimate: 0.848658 MB)...
+[2025.04.04-23.18.45:202][659]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_656
+[2025.04.04-23.18.45:202][659]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_657
+[2025.04.04-23.18.45:202][659]LogStaticMesh: Warning: WaterInfoMesh_656 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.45:202][659]LogStaticMesh: Warning: WaterInfoMesh_656 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.45:208][659]LogStaticMesh: Warning: WaterInfoMesh_658 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.45:208][659]LogStaticMesh: Warning: WaterInfoMesh_658 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.46:222][712]LogStaticMesh: Display: Building static mesh WaterInfoMesh_660 (Required Memory Estimate: 0.674148 MB)...
+[2025.04.04-23.18.46:223][712]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_661 (Required Memory Estimate: 0.848658 MB)...
+[2025.04.04-23.18.46:226][712]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_660
+[2025.04.04-23.18.46:226][712]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_661
+[2025.04.04-23.18.46:226][712]LogStaticMesh: Warning: WaterInfoMesh_660 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.46:227][712]LogStaticMesh: Warning: WaterInfoMesh_660 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.46:233][712]LogStaticMesh: Warning: WaterInfoMesh_662 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.46:233][712]LogStaticMesh: Warning: WaterInfoMesh_662 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.47:159][759]LogStaticMesh: Display: Building static mesh WaterInfoMesh_664 (Required Memory Estimate: 0.674148 MB)...
+[2025.04.04-23.18.47:159][759]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_665 (Required Memory Estimate: 0.848658 MB)...
+[2025.04.04-23.18.47:162][759]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_664
+[2025.04.04-23.18.47:162][759]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_665
+[2025.04.04-23.18.47:164][759]LogStaticMesh: Warning: WaterInfoMesh_664 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.47:164][759]LogStaticMesh: Warning: WaterInfoMesh_664 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.47:170][759]LogStaticMesh: Warning: WaterInfoMesh_666 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.47:171][759]LogStaticMesh: Warning: WaterInfoMesh_666 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:037][803]LogStaticMesh: Display: Building static mesh WaterInfoMesh_668 (Required Memory Estimate: 0.679194 MB)...
+[2025.04.04-23.18.48:037][803]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_669 (Required Memory Estimate: 0.854906 MB)...
+[2025.04.04-23.18.48:041][803]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_669
+[2025.04.04-23.18.48:041][803]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_668
+[2025.04.04-23.18.48:042][803]LogStaticMesh: Warning: WaterInfoMesh_668 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:042][803]LogStaticMesh: Warning: WaterInfoMesh_668 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:048][803]LogStaticMesh: Warning: WaterInfoMesh_670 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:048][803]LogStaticMesh: Warning: WaterInfoMesh_670 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:686][833]LogStaticMesh: Display: Building static mesh WaterInfoMesh_672 (Required Memory Estimate: 0.689395 MB)...
+[2025.04.04-23.18.48:686][833]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_673 (Required Memory Estimate: 0.867537 MB)...
+[2025.04.04-23.18.48:689][833]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoMesh_672
+[2025.04.04-23.18.48:689][833]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA4D35B02_1654183729.WaterInfoDilatedMesh_673
+[2025.04.04-23.18.48:689][833]LogStaticMesh: Warning: WaterInfoMesh_672 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:689][833]LogStaticMesh: Warning: WaterInfoMesh_672 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:695][833]LogStaticMesh: Warning: WaterInfoMesh_674 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.18.48:695][833]LogStaticMesh: Warning: WaterInfoMesh_674 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.04-23.19.08:899][868]Cmd: SELECT NONE
+[2025.04.04-23.19.13:580][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.04.04-23.19.14:703][104]LogSlate: Window 'Save Content' being destroyed
+[2025.04.04-23.19.15:082][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.04-23.19.15:187][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.19.15:190][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_3_0.Heightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.19.15:192][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_3_0.Heightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.19.15:205][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/55/F4UG9H7VRR9LFGJK5A4LUJ
+[2025.04.04-23.19.15:207][104]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/F4UG9H7VRR9LFGJK5A4LUJ9F93EE66496BA87BFA162A9CCBEF2C81.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/55/F4UG9H7VRR9LFGJK5A4LUJ.uasset'
+[2025.04.04-23.19.15:213][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.19.15:216][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.19.15:219][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.19.15:221][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_5_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.04-23.19.15:235][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EB/R2I3USFCPFA0MR5QNWXQOG
+[2025.04.04-23.19.15:236][104]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/R2I3USFCPFA0MR5QNWXQOGC5F13EAA45DE87AA3DFF5B826A52E719.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/EB/R2I3USFCPFA0MR5QNWXQOG.uasset'
+[2025.04.04-23.19.15:296][104]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UN/0N490922EVTSV7U1DNG8NA
+[2025.04.04-23.19.15:296][104]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/0N490922EVTSV7U1DNG8NAA5F303E34BED814645951DB1C025FC77.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UN/0N490922EVTSV7U1DNG8NA.uasset'
+[2025.04.04-23.19.15:592][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 510.507 ms (total: 4.06 sec)
+[2025.04.04-23.19.15:724][104]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.04-23.19.15:724][104]LogContentValidation: Enabled validators:
+[2025.04.04-23.19.15:724][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.04-23.19.15:724][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.04-23.19.15:724][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.04-23.19.15:724][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.04-23.19.15:724][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.04-23.19.15:724][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.04-23.19.15:725][104]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
