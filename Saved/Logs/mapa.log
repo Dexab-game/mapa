@@ -2120,3 +2120,84 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.05-15.20.33:818][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.05-15.20.33:818][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.05-15.20.33:820][952]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.05-15.21.29:414][870]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.32:916][ 55]Cmd: TRANSACTION UNDO
+[2025.04.05-15.21.32:917][ 55]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.21.32:966][ 55]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.32:967][ 55]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.32:968][ 55]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.32:969][ 55]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.33:163][ 56]Cmd: TRANSACTION UNDO
+[2025.04.05-15.21.33:163][ 56]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.21.33:207][ 56]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.33:208][ 56]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.33:209][ 56]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.33:210][ 56]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.34:303][104]Cmd: TRANSACTION UNDO
+[2025.04.05-15.21.34:303][104]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.21.34:359][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.34:360][104]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.35:707][168]Cmd: TRANSACTION UNDO
+[2025.04.05-15.21.35:707][168]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.21.35:732][168]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.21.35:733][168]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.22.18:548][202]Cmd: TRANSACTION UNDO
+[2025.04.05-15.22.18:548][202]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.22.18:593][202]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.22.18:594][202]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.22.18:595][202]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.22.18:596][202]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.25.40:413][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.04.05-15.25.40:431][ 97]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.25.40:434][ 97]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.25.40:437][ 97]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.25.40:439][ 97]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.25.40:451][ 97]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2W/6H51WTG4GSWHPGDNEAS080_Auto5
+[2025.04.05-15.25.40:451][ 97]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/6H51WTG4GSWHPGDNEAS080_Auto597236CFD4133129F40D64BA47D153E9B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2W/6H51WTG4GSWHPGDNEAS080_Auto5.uasset'
+[2025.04.05-15.25.40:454][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.080
+[2025.04.05-15.25.40:454][ 97]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2025.04.05-15.26.26:124][418]Cmd: TRANSACTION UNDO
+[2025.04.05-15.26.26:124][418]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.26.26:157][418]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.26.26:159][418]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.26.30:863][608]Cmd: TRANSACTION UNDO
+[2025.04.05-15.26.30:863][608]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.26.30:891][608]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.26.30:892][608]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.26.58:298][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8266.742188
+[2025.04.05-15.26.58:477][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-15.26.58:477][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8266.900391, Update Interval: 344.514282
+[2025.04.05-15.31.11:609][404]Cmd: TRANSACTION UNDO
+[2025.04.05-15.31.11:609][404]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.05-15.31.11:669][404]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.31.11:669][404]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.31.31:244][351]Cmd: TRANSACTION UNDO
+[2025.04.05-15.31.31:244][351]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2025.04.05-15.31.31:267][351]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.31.31:268][351]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.33.13:180][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8641.710938
+[2025.04.05-15.33.13:372][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-15.33.13:372][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8641.886719, Update Interval: 330.762665
+[2025.04.05-15.34.42:138][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.04.05-15.34.43:465][494]LogSlate: Window 'Save Content' being destroyed
+[2025.04.05-15.34.43:766][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-15.34.43:896][494]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.34.43:899][494]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_3_0.Heightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.34.43:913][494]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2W/6H51WTG4GSWHPGDNEAS080
+[2025.04.05-15.34.43:914][494]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/6H51WTG4GSWHPGDNEAS08084CE02A9462CC5301F3A9BA50A392CE7.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/2W/6H51WTG4GSWHPGDNEAS080.uasset'
+[2025.04.05-15.34.43:920][494]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.34.43:923][494]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.34.43:925][494]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.34.43:928][494]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_3_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-15.34.43:941][494]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/SKPQU2R89P8ZH3YSPLK7M4
+[2025.04.05-15.34.43:942][494]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/SKPQU2R89P8ZH3YSPLK7M41E1B2585450557AC4D55C9AE0329FDBF.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PY/SKPQU2R89P8ZH3YSPLK7M4.uasset'
+[2025.04.05-15.34.43:959][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.343 ms (total: 754.967 ms)
+[2025.04.05-15.34.44:108][494]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.05-15.34.44:108][494]LogContentValidation: Enabled validators:
+[2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-15.34.44:108][494]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
