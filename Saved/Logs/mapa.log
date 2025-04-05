@@ -2201,3 +2201,145 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.05-15.34.44:108][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.05-15.34.44:108][494]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.05-15.39.14:621][ 47]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9003.122070
+[2025.04.05-15.39.15:621][ 50]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-15.39.15:621][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9003.789062, Update Interval: 359.146698
+[2025.04.05-15.45.57:353][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9405.835938
+[2025.04.05-15.45.58:353][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-15.45.58:353][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9406.501953, Update Interval: 328.525024
+[2025.04.05-15.52.08:745][369]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9777.216797
+[2025.04.05-15.52.09:745][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-15.52.09:745][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9777.884766, Update Interval: 339.850464
+[2025.04.05-15.58.45:479][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10173.942383
+[2025.04.05-15.58.46:477][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-15.58.46:479][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10174.609375, Update Interval: 337.378448
+[2025.04.05-16.05.00:201][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10548.666992
+[2025.04.05-16.05.01:201][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.05.01:201][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10549.333984, Update Interval: 335.703003
+[2025.04.05-16.10.44:074][715]LogDerivedDataCache: C:/Users/prazi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.05-16.11.31:604][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10940.069336
+[2025.04.05-16.11.32:604][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.11.32:604][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10940.736328, Update Interval: 327.953735
+[2025.04.05-16.17.53:670][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11322.124023
+[2025.04.05-16.17.54:670][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.17.54:670][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11322.790039, Update Interval: 343.067719
+[2025.04.05-16.24.16:748][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11705.200195
+[2025.04.05-16.24.17:748][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.24.17:748][155]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11705.867188, Update Interval: 333.663147
+[2025.04.05-16.30.49:810][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12098.260742
+[2025.04.05-16.30.50:809][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.30.50:809][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12098.927734, Update Interval: 358.011414
+[2025.04.05-16.37.25:541][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12493.978516
+[2025.04.05-16.37.26:541][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.37.26:542][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12494.646484, Update Interval: 337.473694
+[2025.04.05-16.39.17:057][733]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.40.01:205][848]LogStaticMesh: Display: Building static mesh WaterInfoMesh_0 (Required Memory Estimate: 0.176833 MB)...
+[2025.04.05-16.40.01:205][848]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_1 (Required Memory Estimate: 0.23369 MB)...
+[2025.04.05-16.40.01:207][848]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_1
+[2025.04.05-16.40.01:207][848]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_0
+[2025.04.05-16.40.01:994][888]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_5 (Required Memory Estimate: 0.23369 MB)...
+[2025.04.05-16.40.01:994][888]LogStaticMesh: Display: Building static mesh WaterInfoMesh_4 (Required Memory Estimate: 0.176833 MB)...
+[2025.04.05-16.40.01:996][888]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_5
+[2025.04.05-16.40.01:996][888]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_4
+[2025.04.05-16.40.02:603][916]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_9 (Required Memory Estimate: 0.227442 MB)...
+[2025.04.05-16.40.02:603][916]LogStaticMesh: Display: Building static mesh WaterInfoMesh_8 (Required Memory Estimate: 0.171626 MB)...
+[2025.04.05-16.40.02:605][916]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_8
+[2025.04.05-16.40.02:605][916]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_9
+[2025.04.05-16.40.03:200][944]LogStaticMesh: Display: Building static mesh WaterInfoMesh_12 (Required Memory Estimate: 0.171626 MB)...
+[2025.04.05-16.40.03:200][944]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_13 (Required Memory Estimate: 0.227442 MB)...
+[2025.04.05-16.40.03:202][944]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_12
+[2025.04.05-16.40.03:202][944]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_13
+[2025.04.05-16.40.03:631][963]LogStaticMesh: Display: Building static mesh WaterInfoMesh_16 (Required Memory Estimate: 0.176833 MB)...
+[2025.04.05-16.40.03:631][963]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_17 (Required Memory Estimate: 0.23369 MB)...
+[2025.04.05-16.40.03:634][963]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_16
+[2025.04.05-16.40.03:634][963]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_17
+[2025.04.05-16.40.04:028][980]LogStaticMesh: Display: Building static mesh WaterInfoMesh_20 (Required Memory Estimate: 0.176833 MB)...
+[2025.04.05-16.40.04:028][980]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_21 (Required Memory Estimate: 0.23369 MB)...
+[2025.04.05-16.40.04:030][980]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_20
+[2025.04.05-16.40.04:030][980]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_21
+[2025.04.05-16.40.04:515][  2]LogStaticMesh: Display: Building static mesh WaterInfoMesh_24 (Required Memory Estimate: 0.171626 MB)...
+[2025.04.05-16.40.04:515][  2]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_25 (Required Memory Estimate: 0.227442 MB)...
+[2025.04.05-16.40.04:517][  2]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_24
+[2025.04.05-16.40.04:517][  2]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_25
+[2025.04.05-16.40.21:999][813]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_29 (Required Memory Estimate: 0.227442 MB)...
+[2025.04.05-16.40.21:999][813]LogStaticMesh: Display: Building static mesh WaterInfoMesh_28 (Required Memory Estimate: 0.171626 MB)...
+[2025.04.05-16.40.22:001][813]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_28
+[2025.04.05-16.40.22:001][813]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_29
+[2025.04.05-16.40.22:980][859]LogStaticMesh: Display: Building static mesh WaterInfoMesh_36 (Required Memory Estimate: 0.176833 MB)...
+[2025.04.05-16.40.22:980][859]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_37 (Required Memory Estimate: 0.23369 MB)...
+[2025.04.05-16.40.22:982][859]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoMesh_36
+[2025.04.05-16.40.22:982][859]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_2100638867.WaterInfoDilatedMesh_37
+[2025.04.05-16.41.05:533][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.04.05-16.41.05:538][182]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_9_1_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.05-16.41.05:550][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Q7/15D9VSS36SCB6GANFGY496_Auto6
+[2025.04.05-16.41.05:550][182]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/15D9VSS36SCB6GANFGY496_Auto69F7EDBB44E184FDCCB7B3DB399040128.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Q7/15D9VSS36SCB6GANFGY496_Auto6.uasset'
+[2025.04.05-16.41.05:556][182]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.41.05:558][182]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.41.05:571][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PE/NEV7P6M0BMDZD0RQC98R9O_Auto6
+[2025.04.05-16.41.05:571][182]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/NEV7P6M0BMDZD0RQC98R9O_Auto627F84E7045DC21BF1A6DDCBCD098AFB5.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PE/NEV7P6M0BMDZD0RQC98R9O_Auto6.uasset'
+[2025.04.05-16.41.05:586][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DW/HLUDO5PYJAG37JOGJJYYIA_Auto6
+[2025.04.05-16.41.05:586][182]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HLUDO5PYJAG37JOGJJYYIA_Auto6A42211FD46A0E225E4EDD38B40AA3BCF.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DW/HLUDO5PYJAG37JOGJJYYIA_Auto6.uasset'
+[2025.04.05-16.41.05:589][182]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.095
+[2025.04.05-16.41.05:589][182]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.095
+[2025.04.05-16.43.09:578][304]Cmd: TRANSACTION UNDO
+[2025.04.05-16.43.09:578][304]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2025.04.05-16.43.09:629][304]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.43.09:630][304]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.43.09:631][304]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.43.09:632][304]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.43.43:540][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12872.010742
+[2025.04.05-16.43.43:822][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.43.43:822][796]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12872.249023, Update Interval: 332.284302
+[2025.04.05-16.43.54:844][312]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_1 (Required Memory Estimate: 0.23369 MB)...
+[2025.04.05-16.43.54:844][312]LogStaticMesh: Display: Building static mesh WaterInfoMesh_0 (Required Memory Estimate: 0.176833 MB)...
+[2025.04.05-16.43.54:845][312]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoMesh_0
+[2025.04.05-16.43.54:845][312]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoDilatedMesh_1
+[2025.04.05-16.43.55:908][366]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_5 (Required Memory Estimate: 0.221167 MB)...
+[2025.04.05-16.43.55:908][366]LogStaticMesh: Display: Building static mesh WaterInfoMesh_4 (Required Memory Estimate: 0.166526 MB)...
+[2025.04.05-16.43.55:911][366]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoDilatedMesh_5
+[2025.04.05-16.43.55:911][366]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoMesh_4
+[2025.04.05-16.43.57:028][424]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_9 (Required Memory Estimate: 0.208536 MB)...
+[2025.04.05-16.43.57:028][424]LogStaticMesh: Display: Building static mesh WaterInfoMesh_8 (Required Memory Estimate: 0.156432 MB)...
+[2025.04.05-16.43.57:030][424]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoMesh_8
+[2025.04.05-16.43.57:030][424]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoDilatedMesh_9
+[2025.04.05-16.43.58:083][478]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_13 (Required Memory Estimate: 0.221167 MB)...
+[2025.04.05-16.43.58:083][478]LogStaticMesh: Display: Building static mesh WaterInfoMesh_12 (Required Memory Estimate: 0.166526 MB)...
+[2025.04.05-16.43.58:085][478]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoMesh_12
+[2025.04.05-16.43.58:085][478]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoDilatedMesh_13
+[2025.04.05-16.44.01:469][631]LogStaticMesh: Display: Building static mesh WaterInfoMesh_20 (Required Memory Estimate: 0.166526 MB)...
+[2025.04.05-16.44.01:469][631]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_21 (Required Memory Estimate: 0.221167 MB)...
+[2025.04.05-16.44.01:471][631]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoDilatedMesh_21
+[2025.04.05-16.44.01:472][631]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoMesh_20
+[2025.04.05-16.44.03:875][733]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_29 (Required Memory Estimate: 0.221167 MB)...
+[2025.04.05-16.44.03:875][733]LogStaticMesh: Display: Building static mesh WaterInfoMesh_28 (Required Memory Estimate: 0.166526 MB)...
+[2025.04.05-16.44.03:877][733]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoDilatedMesh_29
+[2025.04.05-16.44.03:877][733]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoMesh_28
+[2025.04.05-16.44.05:007][788]LogStaticMesh: Display: Building static mesh WaterInfoDilatedMesh_37 (Required Memory Estimate: 0.221167 MB)...
+[2025.04.05-16.44.05:007][788]LogStaticMesh: Display: Building static mesh WaterInfoMesh_36 (Required Memory Estimate: 0.166526 MB)...
+[2025.04.05-16.44.05:009][788]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoDilatedMesh_37
+[2025.04.05-16.44.05:009][788]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WaterBodyRiver_UAID_A036BCD29FA42F5B02_1932400865.WaterInfoMesh_36
+[2025.04.05-16.45.43:443][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.45.43:660][738]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_9_1_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.45.43:665][738]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.45.43:666][738]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.45.43:667][738]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.45.43:669][738]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.45.43:669][738]LogTexture: Display: Building textures: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LandscapeStreamingProxy_21790QFCAKYHQP6ZRRLZTNIOT_126_6_4_0.Heightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.05-16.45.43:692][738]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Q7/15D9VSS36SCB6GANFGY496
+[2025.04.05-16.45.43:694][738]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/15D9VSS36SCB6GANFGY4962D8658554AD6E507790738B38C1AD74F.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Q7/15D9VSS36SCB6GANFGY496.uasset'
+[2025.04.05-16.45.43:721][738]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PE/NEV7P6M0BMDZD0RQC98R9O
+[2025.04.05-16.45.43:723][738]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/NEV7P6M0BMDZD0RQC98R9OB39C8DAD4A3A07A70D2306839906C910.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PE/NEV7P6M0BMDZD0RQC98R9O.uasset'
+[2025.04.05-16.45.43:739][738]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6X/22WE2BT4NSGAN1Z5X6ETV4
+[2025.04.05-16.45.43:741][738]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/22WE2BT4NSGAN1Z5X6ETV40FD5EC8B47F3E754AED58B8F1944D43F.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6X/22WE2BT4NSGAN1Z5X6ETV4.uasset'
+[2025.04.05-16.45.43:761][738]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DW/HLUDO5PYJAG37JOGJJYYIA
+[2025.04.05-16.45.43:762][738]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HLUDO5PYJAG37JOGJJYYIAB11EC1F64F327E54C31C70ACAD080B44.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DW/HLUDO5PYJAG37JOGJJYYIA.uasset'
+[2025.04.05-16.45.43:784][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 341.413 ms (total: 1.09 sec)
+[2025.04.05-16.45.43:940][738]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.05-16.45.43:940][738]LogContentValidation: Enabled validators:
+[2025.04.05-16.45.43:940][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.45.43:940][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.45.43:940][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.45.43:940][738]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.45.43:940][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.45.43:940][738]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.45.43:942][738]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
