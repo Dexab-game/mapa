@@ -1580,3 +1580,607 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.08-18.34.52:724][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.08-18.34.52:724][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.08-18.34.52:725][937]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.08-18.35.36:326][978]Cmd: DELETE
+[2025.04.08-18.35.36:326][978]Cmd: ACTOR DELETE
+[2025.04.08-18.35.36:348][978]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.35.36:364][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.08-18.35.36:368][978]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.04.08-18.35.40:069][198]Cmd: DELETE
+[2025.04.08-18.35.40:069][198]Cmd: ACTOR DELETE
+[2025.04.08-18.35.46:584][198]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.35.46:629][198]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.35.46:645][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.08-18.35.46:647][198]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.04.08-18.35.48:068][265]Cmd: DELETE
+[2025.04.08-18.35.48:068][265]Cmd: ACTOR DELETE
+[2025.04.08-18.35.48:913][265]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.35.48:942][265]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.35.48:957][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-18.35.48:959][265]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.04.08-18.35.50:051][327]Cmd: DELETE
+[2025.04.08-18.35.50:051][327]Cmd: ACTOR DELETE
+[2025.04.08-18.35.50:870][327]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.35.50:898][327]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.35.50:916][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-18.35.50:917][327]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.04.08-18.35.51:945][385]Cmd: DELETE
+[2025.04.08-18.35.51:945][385]Cmd: ACTOR DELETE
+[2025.04.08-18.35.52:805][385]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.35.52:834][385]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.35.52:850][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.08-18.35.52:852][385]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.35.54:197][462]Cmd: DELETE
+[2025.04.08-18.35.54:197][462]Cmd: ACTOR DELETE
+[2025.04.08-18.35.54:929][462]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.35.54:957][462]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.35.54:974][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.08-18.35.54:976][462]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.35.56:026][520]Cmd: DELETE
+[2025.04.08-18.35.56:026][520]Cmd: ACTOR DELETE
+[2025.04.08-18.35.56:741][520]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.35.56:776][520]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.35.56:793][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.08-18.35.56:794][520]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.04.08-18.36.00:903][762]Cmd: DELETE
+[2025.04.08-18.36.00:903][762]Cmd: ACTOR DELETE
+[2025.04.08-18.36.02:000][762]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.02:029][762]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.02:045][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.08-18.36.02:048][762]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.36.06:389][ 12]Cmd: DELETE
+[2025.04.08-18.36.06:389][ 12]Cmd: ACTOR DELETE
+[2025.04.08-18.36.07:236][ 12]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.07:263][ 12]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.07:279][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-18.36.07:283][ 12]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.36.09:685][151]Cmd: DELETE
+[2025.04.08-18.36.09:685][151]Cmd: ACTOR DELETE
+[2025.04.08-18.36.10:564][151]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.10:593][151]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.10:607][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-18.36.10:610][151]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.04.08-18.36.11:858][222]Cmd: DELETE
+[2025.04.08-18.36.11:858][222]Cmd: ACTOR DELETE
+[2025.04.08-18.36.12:994][222]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.13:022][222]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.13:037][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-18.36.13:039][222]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.08-18.36.14:410][300]Cmd: DELETE
+[2025.04.08-18.36.14:410][300]Cmd: ACTOR DELETE
+[2025.04.08-18.36.15:194][300]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.15:222][300]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.15:237][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.08-18.36.15:239][300]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.08-18.36.17:258][417]Cmd: DELETE
+[2025.04.08-18.36.17:259][417]Cmd: ACTOR DELETE
+[2025.04.08-18.36.18:048][417]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.18:074][417]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.18:091][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.08-18.36.18:093][417]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.08-18.36.19:247][482]Cmd: DELETE
+[2025.04.08-18.36.19:247][482]Cmd: ACTOR DELETE
+[2025.04.08-18.36.19:987][482]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.20:015][482]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.20:029][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.08-18.36.20:031][482]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.04.08-18.36.21:186][547]Cmd: DELETE
+[2025.04.08-18.36.21:187][547]Cmd: ACTOR DELETE
+[2025.04.08-18.36.21:802][547]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.21:831][547]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.21:848][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.04.08-18.36.21:850][547]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.36.23:075][615]Cmd: DELETE
+[2025.04.08-18.36.23:075][615]Cmd: ACTOR DELETE
+[2025.04.08-18.36.23:743][615]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.23:753][615]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.23:771][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-18.36.23:773][615]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.04.08-18.36.28:764][903]Cmd: DELETE
+[2025.04.08-18.36.28:764][903]Cmd: ACTOR DELETE
+[2025.04.08-18.36.29:628][903]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.29:659][903]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.29:675][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.08-18.36.29:677][903]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.04.08-18.36.33:730][134]Cmd: DELETE
+[2025.04.08-18.36.33:730][134]Cmd: ACTOR DELETE
+[2025.04.08-18.36.34:541][134]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.34:570][134]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.34:586][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-18.36.34:588][134]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.08-18.36.37:345][296]Cmd: DELETE
+[2025.04.08-18.36.37:345][296]Cmd: ACTOR DELETE
+[2025.04.08-18.36.38:215][296]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.38:244][296]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.38:258][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.04.08-18.36.38:261][296]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.04.08-18.36.39:607][373]Cmd: DELETE
+[2025.04.08-18.36.39:607][373]Cmd: ACTOR DELETE
+[2025.04.08-18.36.40:135][373]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.40:163][373]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.40:180][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.08-18.36.40:182][373]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.04.08-18.36.41:696][459]Cmd: DELETE
+[2025.04.08-18.36.41:696][459]Cmd: ACTOR DELETE
+[2025.04.08-18.36.42:304][459]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.36.42:315][459]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.36.42:333][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-18.36.42:335][459]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.04.08-18.37.10:847][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 672.612732
+[2025.04.08-18.37.11:012][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-18.37.11:012][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 672.762573, Update Interval: 312.517487
+[2025.04.08-18.37.25:950][985]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.37.26:016][989]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.37.27:049][ 51]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.37.53:630][575]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.08-18.37.53:771][575]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 65.97 ms. Compile time 63.19 ms, link time 2.70 ms.
+[2025.04.08-18.37.53:789][575]LogD3D12RHI: Creating RTPSO with 32 shaders (0 cached, 32 new) took 146.26 ms. Compile time 132.24 ms, link time 13.95 ms.
+[2025.04.08-18.37.53:914][576]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.08-18.39.37:626][484]Cmd: SELECT NONE
+[2025.04.08-18.39.38:883][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.08-18.39.38:893][558]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.08-18.39.38:893][558]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.08-18.39.38:901][558]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 9.131 ms (total: 31.257 ms)
+[2025.04.08-18.39.38:901][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.08-18.39.38:902][558]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.08-18.39.39:047][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144122s)
+[2025.04.08-18.39.39:047][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.144189s)
+[2025.04.08-18.39.39:059][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.08-18.39.39:061][558]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.08-18.39.39:064][558]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.08-18.39.39:064][558]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.08-18.39.39:064][558]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.08-18.39.39:064][558]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.08-18.39.39:119][558]LogWorldPartition: Display: WorldPartition initialize took 55.657 ms (total: 2.36 sec)
+[2025.04.08-18.39.39:119][558]LogPlayLevel: PIE: World Init took: (0.058094s)
+[2025.04.08-18.39.39:120][558]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.04.08-18.39.39:120][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.08-18.39.39:120][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.08-18.39.39:120][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.08-18.39.39:120][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.08-18.39.39:120][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.08-18.39.39:120][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.08-18.39.39:120][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.08-18.39.39:120][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.08-18.39.39:120][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.08-18.39.39:120][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.08-18.39.39:120][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.08-18.39.39:123][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.08-18.39.39:155][558]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.08-18.39.39:156][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.08-18.39.39:156][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.08-18.39.39:156][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.08-18.39.39:156][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.04.08-18.39.39:156][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.04.08-18.39.39:159][558]LogInit: FAudioDevice initialized with ID 4.
+[2025.04.08-18.39.39:159][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.04.08-18.39.39:159][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.04.08-18.39.39:159][558]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.04.08-18.39.39:159][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.08-18.39.39:162][558]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.08-18.39.39:287][558]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.04.08-20.39.39
+[2025.04.08-18.39.39:326][558]LogWorld: Bringing up level for play took: 0.163614
+[2025.04.08-18.39.39:330][558]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.04.08-18.39.39:331][558]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SK_Viking'
+[2025.04.08-18.39.39:335][558]PIE: Server logged in
+[2025.04.08-18.39.39:336][558]PIE: Play in editor total start time 0,444 seconds.
+[2025.04.08-18.39.48:593][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-18.39.48:593][ 99]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.08-18.39.48:593][ 99]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.08-18.39.48:615][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-18.39.48:615][ 99]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.08-18.39.48:620][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.08-18.39.48:625][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.08-18.39.48:641][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.08-18.39.48:645][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.04.08-18.39.48:645][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.08-18.39.48:648][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.04.08-18.39.48:664][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.08-18.39.48:710][100]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.04.08-18.40.15:195][657]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.08-18.40.36:027][849]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.40.36:059][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.40.37:010][908]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.40.52:718][821]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.41.36:789][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.08-18.41.36:796][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC] ([1] browsable assets)...
+[2025.04.08-18.41.36:796][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC]
+[2025.04.08-18.41.36:797][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC_Auto1
+[2025.04.08-18.41.36:797][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/22PD314FCWY4ZK61DE3XZC_Auto1A49486C749EC0B2E784FFE8F620C7956.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC_Auto1.uasset'
+[2025.04.08-18.41.36:801][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SW/PKXZG7SKIETK3GMCDGW276_Auto1
+[2025.04.08-18.41.36:802][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/PKXZG7SKIETK3GMCDGW276_Auto1D042AA8649E5239A62AEA1911B7DEC36.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SW/PKXZG7SKIETK3GMCDGW276_Auto1.uasset'
+[2025.04.08-18.41.36:808][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QY/9TAMX3ARRB4ZQFX5PMJSGH_Auto1
+[2025.04.08-18.41.36:808][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/9TAMX3ARRB4ZQFX5PMJSGH_Auto125CDF41442924D646A150EAEB5F48B5D.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QY/9TAMX3ARRB4ZQFX5PMJSGH_Auto1.uasset'
+[2025.04.08-18.41.36:814][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SD/FHLQNH0WQQ9L4TLJ4KV9I7_Auto1
+[2025.04.08-18.41.36:814][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/FHLQNH0WQQ9L4TLJ4KV9I7_Auto1B4A15865490B710B7C29EE8159C3C29B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SD/FHLQNH0WQQ9L4TLJ4KV9I7_Auto1.uasset'
+[2025.04.08-18.41.36:818][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/E8/UN8287IRYGT2Q8MMIY8BVK_Auto1
+[2025.04.08-18.41.36:818][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/UN8287IRYGT2Q8MMIY8BVK_Auto11829116847012A4DCCA132B4A0C245A7.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/E8/UN8287IRYGT2Q8MMIY8BVK_Auto1.uasset'
+[2025.04.08-18.41.36:822][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J_Auto1
+[2025.04.08-18.41.36:822][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/XWFFRCIJ8QK4NRO30ALA6J_Auto1AC5A2F594C56114731736BAFE71F677A.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J_Auto1.uasset'
+[2025.04.08-18.41.36:826][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GZ/IOFVF14G188682TVOHBU88_Auto1
+[2025.04.08-18.41.36:826][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/IOFVF14G188682TVOHBU88_Auto10F69F5DF4EF0CD6AF8704D915F676D23.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GZ/IOFVF14G188682TVOHBU88_Auto1.uasset'
+[2025.04.08-18.41.36:831][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Q3/YKSUK1RHEYNBQZ7OQ6E262_Auto1
+[2025.04.08-18.41.36:831][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/YKSUK1RHEYNBQZ7OQ6E262_Auto182F7871F4F2C85463959E6BB14FD488A.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Q3/YKSUK1RHEYNBQZ7OQ6E262_Auto1.uasset'
+[2025.04.08-18.41.36:835][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UO/HT8BZKJT94D81PBXUF4VSO_Auto1
+[2025.04.08-18.41.36:835][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HT8BZKJT94D81PBXUF4VSO_Auto1DC624A48491526BE6925B9999A9E2CD9.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UO/HT8BZKJT94D81PBXUF4VSO_Auto1.uasset'
+[2025.04.08-18.41.36:839][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U8/CXBSDL4OQVHO9W9QMAGMCR_Auto1
+[2025.04.08-18.41.36:839][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/CXBSDL4OQVHO9W9QMAGMCR_Auto17735963C4C3743133A462AA3FEF7D78F.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U8/CXBSDL4OQVHO9W9QMAGMCR_Auto1.uasset'
+[2025.04.08-18.41.36:843][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1
+[2025.04.08-18.41.36:843][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/BEYC27T14FHBU6LF2F60RR_Auto1487662684E1C41C3E1CE609801464CB5.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1.uasset'
+[2025.04.08-18.41.36:848][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SP/BR5IEMZZQUTE58MW6QWR5R_Auto1
+[2025.04.08-18.41.36:848][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/BR5IEMZZQUTE58MW6QWR5R_Auto1BECB17FB406A90D9B939F29F31297025.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SP/BR5IEMZZQUTE58MW6QWR5R_Auto1.uasset'
+[2025.04.08-18.41.36:852][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/35/3QG5R8XB8MNBHVRNIAQ48F_Auto1
+[2025.04.08-18.41.36:853][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/3QG5R8XB8MNBHVRNIAQ48F_Auto127151DBC425E06985618638B624D8360.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/35/3QG5R8XB8MNBHVRNIAQ48F_Auto1.uasset'
+[2025.04.08-18.41.36:858][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/9MVOYNBP7ULO64Q6F8T7H4_Auto1
+[2025.04.08-18.41.36:858][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/9MVOYNBP7ULO64Q6F8T7H4_Auto1FD35FB9B4AB5CDD7CDF0A59B2809DD27.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/9MVOYNBP7ULO64Q6F8T7H4_Auto1.uasset'
+[2025.04.08-18.41.36:862][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HQ/HEVVDQEW1BH13XCNLQXZUS_Auto1
+[2025.04.08-18.41.36:862][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HEVVDQEW1BH13XCNLQXZUS_Auto11D69934A48F9C9464181DF9DA467CACF.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HQ/HEVVDQEW1BH13XCNLQXZUS_Auto1.uasset'
+[2025.04.08-18.41.36:866][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/00/E1L081WZGUKLO1K50FNY58_Auto1
+[2025.04.08-18.41.36:866][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/E1L081WZGUKLO1K50FNY58_Auto1F8A2F96A406084CC708E389543CA2FD5.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/00/E1L081WZGUKLO1K50FNY58_Auto1.uasset'
+[2025.04.08-18.41.36:870][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BA/CA9JK0NWZ1JDLKU6GSQEJI_Auto1
+[2025.04.08-18.41.36:870][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/CA9JK0NWZ1JDLKU6GSQEJI_Auto151FADCD247665F188AC3B086322B7D36.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BA/CA9JK0NWZ1JDLKU6GSQEJI_Auto1.uasset'
+[2025.04.08-18.41.36:875][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GP/GCGFJAG1XDUMDHUB6SZGDH_Auto1
+[2025.04.08-18.41.36:875][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/GCGFJAG1XDUMDHUB6SZGDH_Auto128DFADB749A1F1390E68C1B6EFAA4902.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GP/GCGFJAG1XDUMDHUB6SZGDH_Auto1.uasset'
+[2025.04.08-18.41.36:879][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OI/QM69GDLE81EO068S05DUD2_Auto1
+[2025.04.08-18.41.36:880][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/QM69GDLE81EO068S05DUD2_Auto1ADD792344620E420325E9288836BF72C.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OI/QM69GDLE81EO068S05DUD2_Auto1.uasset'
+[2025.04.08-18.41.36:884][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/BS/3JYVZFJ07H2E46C4RHH2VB_Auto1
+[2025.04.08-18.41.36:884][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/3JYVZFJ07H2E46C4RHH2VB_Auto121CD4FC64B204F91E83389BEE8DCFF2C.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/BS/3JYVZFJ07H2E46C4RHH2VB_Auto1.uasset'
+[2025.04.08-18.41.36:889][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NQ/2SC127ATJ93M6V81Z7DSTA_Auto1
+[2025.04.08-18.41.36:889][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/2SC127ATJ93M6V81Z7DSTA_Auto1B65F89504D856411D72E8D8B4F875C72.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NQ/2SC127ATJ93M6V81Z7DSTA_Auto1.uasset'
+[2025.04.08-18.41.36:893][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/1EBRFAB4TLMVGSW0VXGHU7_Auto1
+[2025.04.08-18.41.36:894][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/1EBRFAB4TLMVGSW0VXGHU7_Auto1ED436F3C41598BC16F2B9694D1EEB88F.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/1EBRFAB4TLMVGSW0VXGHU7_Auto1.uasset'
+[2025.04.08-18.41.36:897][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RW/51QJBD3I3286KJLRU01UEU_Auto1
+[2025.04.08-18.41.36:897][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/51QJBD3I3286KJLRU01UEU_Auto1BF918F1C4ABBD719C96DE2A978718BF9.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RW/51QJBD3I3286KJLRU01UEU_Auto1.uasset'
+[2025.04.08-18.41.36:902][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9L/KA9RY76TU2A4AR00YPB7YY_Auto1
+[2025.04.08-18.41.36:902][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/KA9RY76TU2A4AR00YPB7YY_Auto17567E20349A4213E9BA0A3839F45CF1E.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9L/KA9RY76TU2A4AR00YPB7YY_Auto1.uasset'
+[2025.04.08-18.41.36:906][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RD/A9JG2ZJAZR7HOZEKDV0O56_Auto1
+[2025.04.08-18.41.36:906][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/A9JG2ZJAZR7HOZEKDV0O56_Auto1B652B1DA48348291D11B96848F2328CF.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RD/A9JG2ZJAZR7HOZEKDV0O56_Auto1.uasset'
+[2025.04.08-18.41.36:910][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7V/VMIMDPVK39D30WXYJW8XPA_Auto1
+[2025.04.08-18.41.36:910][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/VMIMDPVK39D30WXYJW8XPA_Auto1DF050D814826BDA4AB050C87625C0563.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7V/VMIMDPVK39D30WXYJW8XPA_Auto1.uasset'
+[2025.04.08-18.41.36:915][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG_Auto1
+[2025.04.08-18.41.36:915][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/GK06JAEJ82TQ0GA2QB0DJG_Auto1027A288245170589FB9211AACA7B6523.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG_Auto1.uasset'
+[2025.04.08-18.41.36:920][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UK/6XSC5CAL0ARTUXWDKY62RU_Auto1
+[2025.04.08-18.41.36:920][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/6XSC5CAL0ARTUXWDKY62RU_Auto1AC2C2E71440878ED8F665BAD2214B346.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UK/6XSC5CAL0ARTUXWDKY62RU_Auto1.uasset'
+[2025.04.08-18.41.36:922][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53] ([1] browsable assets)...
+[2025.04.08-18.41.36:922][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53]
+[2025.04.08-18.41.36:924][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53_Auto1
+[2025.04.08-18.41.36:924][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/TXM0181W3E3VJC8L5EAT53_Auto1A632EBDD4CF6D056E6EAF1B8AD27A0A3.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53_Auto1.uasset'
+[2025.04.08-18.41.36:926][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU] ([1] browsable assets)...
+[2025.04.08-18.41.36:926][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU]
+[2025.04.08-18.41.36:928][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU_Auto1
+[2025.04.08-18.41.36:928][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/AELE32W9WHH49ODMQCSYDU_Auto133CFD0D94DF4D28434F6C198B54480B2.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU_Auto1.uasset'
+[2025.04.08-18.41.36:931][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ] ([1] browsable assets)...
+[2025.04.08-18.41.36:931][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ]
+[2025.04.08-18.41.36:933][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ_Auto1
+[2025.04.08-18.41.36:933][426]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/R0P508WR7498YQRIQ9DAZJ_Auto19C2156064B71DFE44686A2AC215C6BF0.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Autosaves/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ_Auto1.uasset'
+[2025.04.08-18.41.36:935][426]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.159
+[2025.04.08-18.41.36:935][426]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.159
+[2025.04.08-18.41.40:870][646]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.41.40:904][648]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.41.41:853][705]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.41.41:853][705]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.41.42:203][726]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.42.26:358][231]Cmd: DELETE
+[2025.04.08-18.42.26:358][231]Cmd: ACTOR DELETE
+[2025.04.08-18.42.28:960][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 990.729370
+[2025.04.08-18.42.29:159][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-18.42.29:159][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 990.912781, Update Interval: 303.770264
+[2025.04.08-18.42.37:808][893]Cmd: DELETE
+[2025.04.08-18.42.37:808][893]Cmd: ACTOR DELETE
+[2025.04.08-18.42.38:770][893]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.42.38:794][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-18.42.38:815][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.08-18.42.38:819][893]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.04.08-18.42.40:871][  2]Cmd: DELETE
+[2025.04.08-18.42.40:871][  2]Cmd: ACTOR DELETE
+[2025.04.08-18.42.41:820][  2]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.42.41:850][  2]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-18.42.41:866][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.04.08-18.42.41:870][  2]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.04.08-18.42.44:534][151]Cmd: DELETE
+[2025.04.08-18.42.44:535][151]Cmd: ACTOR DELETE
+[2025.04.08-18.42.45:378][151]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.42.45:401][151]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.08-18.42.45:416][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.08-18.42.45:418][151]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.04.08-18.42.50:337][442]Cmd: DELETE
+[2025.04.08-18.42.50:337][442]Cmd: ACTOR DELETE
+[2025.04.08-18.42.51:347][442]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.42.51:371][442]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.42.51:386][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-18.42.51:388][442]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.42.54:727][635]Cmd: DELETE
+[2025.04.08-18.42.54:727][635]Cmd: ACTOR DELETE
+[2025.04.08-18.42.56:824][635]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.42.56:857][635]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.42.56:874][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.08-18.42.56:876][635]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.43.00:376][838]Cmd: DELETE
+[2025.04.08-18.43.00:376][838]Cmd: ACTOR DELETE
+[2025.04.08-18.43.01:715][838]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.04.08-18.43.01:738][838]LogEditorActor: Deleted Actor: Actor
+[2025.04.08-18.43.01:754][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-18.43.01:756][838]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.04.08-18.43.03:191][921]Cmd: DELETE
+[2025.04.08-18.43.03:191][921]Cmd: ACTOR DELETE
+[2025.04.08-18.43.03:197][921]LogEditorActor: Deleted Actor: DatasmithSceneActor
+[2025.04.08-18.43.03:209][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.04.08-18.43.03:211][921]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.04.08-18.43.23:182][ 72]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.43.23:216][ 74]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.43.24:149][130]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.44.40:205][600]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.44.40:238][602]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.44.41:188][659]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.46.06:159][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.08-18.46.06:991][529]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-18.46.15:764][529]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.46.15:764][529]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.46.15:764][529]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/': No such file or directory
+[2025.04.08-18.46.15:764][529]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/': No such file or directory
+[2025.04.08-18.46.15:936][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-18.46.18:144][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.08-18.46.18:158][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-18.46.18:171][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.08-18.46.21:145][529]SourceControl: Error: Updated 0 paths from the index
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/W9/CPGVXKTZ3ULEH2GVW0UDNQ.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7A/009W7PXFVNZFMPKUWNQEMR.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PC/YWKDNT71MEDP0YM68WPCOE.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9H/S0SS2OXVAM470FAI2VP5WU.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PV/YVO77GRKR8HDC7NUTWT3AU.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/58/TWTPFH6JZ3ZNC8GKY8991B.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KN/P6VPHOZTWHDFFIUS5HXCUH.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SW/PKXZG7SKIETK3GMCDGW276.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DQ/Y9E3C6F24FY3W8KJEVGFUL.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ES/OK7KPTFM075JSOAPG25ZJW.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/K1/QMXUHGDXSZPHP4WMI5IQCF.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OE/8R61Z3SRW5Z4Y3POAD0CE9.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/35/3QG5R8XB8MNBHVRNIAQ48F.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LO/MQTM53AY4EG717UP20ZIO6.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/M1/81OFK1WMP0R3544TMY9HLR.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AS/BP26WV6L2TSHE6ASMRGWLB.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/G6/X0QK2B5SH2GJC7ASS3C0SK.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HW/KCIY4CY430U1GEVBQEFDHZ.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/00/E1L081WZGUKLO1K50FNY58.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BJ/MVMH3UURSHOL05RLX1ABAB.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/OI/QM69GDLE81EO068S05DUD2.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/V2/ARIHQBJ2KDUOOE7F18EZW0.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FC/Y4N5SVT535H01JEHNX3J50.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/W1/JC12JUY95VSVNIWGXEZ5OC.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/OH/NM9AR8ZTVP2KZLHLTH5L4R.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/98/C3AILKZO3G7W8EMMYFYUU6.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JB/4ON7H6QZTEN3PXVWEUFI2D.uasset'
+[2025.04.08-18.46.23:384][529]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/93/3WUDW01M7RNVZA0Q5YKGC9.uasset'
+[2025.04.08-18.46.23:402][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/1EBRFAB4TLMVGSW0VXGHU7
+[2025.04.08-18.46.23:402][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/1EBRFAB4TLMVGSW0VXGHU75E6B8B49471F3E0F746DA6957EBD9DC7.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QZ/1EBRFAB4TLMVGSW0VXGHU7.uasset'
+[2025.04.08-18.46.23:408][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/E8/UN8287IRYGT2Q8MMIY8BVK
+[2025.04.08-18.46.23:409][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/UN8287IRYGT2Q8MMIY8BVK893F75564C2AEBC070841092713E93DF.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/E8/UN8287IRYGT2Q8MMIY8BVK.uasset'
+[2025.04.08-18.46.23:413][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UO/HT8BZKJT94D81PBXUF4VSO
+[2025.04.08-18.46.23:414][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HT8BZKJT94D81PBXUF4VSOF62BC1F446AE36A3B8A7228D8747DE30.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UO/HT8BZKJT94D81PBXUF4VSO.uasset'
+[2025.04.08-18.46.23:418][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QY/9TAMX3ARRB4ZQFX5PMJSGH
+[2025.04.08-18.46.23:421][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/9TAMX3ARRB4ZQFX5PMJSGHDB9811CA4C9DACB16459C08E6E54F7DD.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QY/9TAMX3ARRB4ZQFX5PMJSGH.uasset'
+[2025.04.08-18.46.23:425][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SP/BR5IEMZZQUTE58MW6QWR5R
+[2025.04.08-18.46.23:426][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/BR5IEMZZQUTE58MW6QWR5R4CE126CC46CE0DA821735089CB98B1B7.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/SP/BR5IEMZZQUTE58MW6QWR5R.uasset'
+[2025.04.08-18.46.23:430][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HQ/HEVVDQEW1BH13XCNLQXZUS
+[2025.04.08-18.46.23:431][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HEVVDQEW1BH13XCNLQXZUSF37592EC45C3DB7377F8B69138F1DB9F.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HQ/HEVVDQEW1BH13XCNLQXZUS.uasset'
+[2025.04.08-18.46.23:435][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/9MVOYNBP7ULO64Q6F8T7H4
+[2025.04.08-18.46.23:436][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/9MVOYNBP7ULO64Q6F8T7H4F6DA8A5A4046AE4FD503EF9B8FF61A82.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/9MVOYNBP7ULO64Q6F8T7H4.uasset'
+[2025.04.08-18.46.23:440][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BA/CA9JK0NWZ1JDLKU6GSQEJI
+[2025.04.08-18.46.23:441][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/CA9JK0NWZ1JDLKU6GSQEJID77784DA4A788AD172D042B2820A0E6B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BA/CA9JK0NWZ1JDLKU6GSQEJI.uasset'
+[2025.04.08-18.46.23:445][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U8/CXBSDL4OQVHO9W9QMAGMCR
+[2025.04.08-18.46.23:446][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/CXBSDL4OQVHO9W9QMAGMCR94DDB7A4416CDC6AD0ED088EC29487A7.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U8/CXBSDL4OQVHO9W9QMAGMCR.uasset'
+[2025.04.08-18.46.23:451][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GZ/IOFVF14G188682TVOHBU88
+[2025.04.08-18.46.23:452][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/IOFVF14G188682TVOHBU8885F63A71470CA59BA62F8DA4C1953CA0.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/GZ/IOFVF14G188682TVOHBU88.uasset'
+[2025.04.08-18.46.23:457][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GP/GCGFJAG1XDUMDHUB6SZGDH
+[2025.04.08-18.46.23:458][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/GCGFJAG1XDUMDHUB6SZGDH460E3593465328C7B79753B7AA171057.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GP/GCGFJAG1XDUMDHUB6SZGDH.uasset'
+[2025.04.08-18.46.23:462][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RD/A9JG2ZJAZR7HOZEKDV0O56
+[2025.04.08-18.46.23:463][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/A9JG2ZJAZR7HOZEKDV0O56F03DF82149C1EFC81C7DF18109BE98EF.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/RD/A9JG2ZJAZR7HOZEKDV0O56.uasset'
+[2025.04.08-18.46.23:466][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Q3/YKSUK1RHEYNBQZ7OQ6E262
+[2025.04.08-18.46.23:469][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/YKSUK1RHEYNBQZ7OQ6E262B0DF69EF4EFEE2573EBF65B20213C967.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Q3/YKSUK1RHEYNBQZ7OQ6E262.uasset'
+[2025.04.08-18.46.23:473][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9L/KA9RY76TU2A4AR00YPB7YY
+[2025.04.08-18.46.23:475][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/KA9RY76TU2A4AR00YPB7YYE9454C8F4A976A7C79854789104B8C20.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9L/KA9RY76TU2A4AR00YPB7YY.uasset'
+[2025.04.08-18.46.23:479][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/BS/3JYVZFJ07H2E46C4RHH2VB
+[2025.04.08-18.46.23:480][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/3JYVZFJ07H2E46C4RHH2VB0AB2A02D4475E000C8AA4AB94DFAB0E3.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/BS/3JYVZFJ07H2E46C4RHH2VB.uasset'
+[2025.04.08-18.46.23:484][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NQ/2SC127ATJ93M6V81Z7DSTA
+[2025.04.08-18.46.23:485][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/2SC127ATJ93M6V81Z7DSTA67482C25482654003C5BF0BBD0ACA12E.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NQ/2SC127ATJ93M6V81Z7DSTA.uasset'
+[2025.04.08-18.46.23:490][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UK/6XSC5CAL0ARTUXWDKY62RU
+[2025.04.08-18.46.23:491][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/6XSC5CAL0ARTUXWDKY62RU1147787846C83D6C59452A9CA18113BC.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UK/6XSC5CAL0ARTUXWDKY62RU.uasset'
+[2025.04.08-18.46.23:495][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RW/51QJBD3I3286KJLRU01UEU
+[2025.04.08-18.46.23:496][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/51QJBD3I3286KJLRU01UEU75C44829400DA05CE46D72B8CD962A16.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/RW/51QJBD3I3286KJLRU01UEU.uasset'
+[2025.04.08-18.46.23:501][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7V/VMIMDPVK39D30WXYJW8XPA
+[2025.04.08-18.46.23:502][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/VMIMDPVK39D30WXYJW8XPA59AD52F24883FEFB981F838B75988ABC.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7V/VMIMDPVK39D30WXYJW8XPA.uasset'
+[2025.04.08-18.46.23:506][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SD/FHLQNH0WQQ9L4TLJ4KV9I7
+[2025.04.08-18.46.23:507][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/FHLQNH0WQQ9L4TLJ4KV9I7832B7603405E4EE41EF6DB80BF41D8F3.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SD/FHLQNH0WQQ9L4TLJ4KV9I7.uasset'
+[2025.04.08-18.46.23:512][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/83/8QXF74QS93ZA9LJTPG6SKQ
+[2025.04.08-18.46.23:513][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/8QXF74QS93ZA9LJTPG6SKQ40AE57954D931B166A9849A6C71E0AF3.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/83/8QXF74QS93ZA9LJTPG6SKQ.uasset'
+[2025.04.08-18.46.23:516][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC] ([1] browsable assets)...
+[2025.04.08-18.46.23:516][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC]
+[2025.04.08-18.46.23:518][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC
+[2025.04.08-18.46.23:519][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/22PD314FCWY4ZK61DE3XZC61D452654EEDADAF8E795E8FE08E5CEE.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset'
+[2025.04.08-18.46.23:520][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53] ([1] browsable assets)...
+[2025.04.08-18.46.23:520][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53]
+[2025.04.08-18.46.23:523][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53
+[2025.04.08-18.46.23:523][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/TXM0181W3E3VJC8L5EAT53F2D8240F449A4662E593A7A4463FCA41.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/N3/TXM0181W3E3VJC8L5EAT53.uasset'
+[2025.04.08-18.46.23:525][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU] ([1] browsable assets)...
+[2025.04.08-18.46.23:525][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU]
+[2025.04.08-18.46.23:526][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU
+[2025.04.08-18.46.23:526][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/AELE32W9WHH49ODMQCSYDU94A76B16446DA8495408629B70B7D8F6.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/02/AELE32W9WHH49ODMQCSYDU.uasset'
+[2025.04.08-18.46.23:529][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ] ([1] browsable assets)...
+[2025.04.08-18.46.23:529][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ]
+[2025.04.08-18.46.23:531][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ
+[2025.04.08-18.46.23:531][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/R0P508WR7498YQRIQ9DAZJ6BE3EBEB41F98E61B481AC87EC064B71.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/7F/R0P508WR7498YQRIQ9DAZJ.uasset'
+[2025.04.08-18.46.23:533][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A] ([1] browsable assets)...
+[2025.04.08-18.46.23:533][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A]
+[2025.04.08-18.46.23:534][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A
+[2025.04.08-18.46.23:535][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/PIQ0B2FNWR15P52TECP27ADE3076D042D7E664ED9357A48ADA14E1.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset'
+[2025.04.08-18.46.23:539][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2025.04.08-18.46.23:540][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/GK06JAEJ82TQ0GA2QB0DJG7459176D482ED4223494F995AB8BA60F.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2025.04.08-18.46.23:544][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2025.04.08-18.46.23:545][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/XWFFRCIJ8QK4NRO30ALA6J58EBFD854A096EF14DC9129E33E87D05.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2025.04.08-18.46.23:549][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2025.04.08-18.46.23:550][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/BEYC27T14FHBU6LF2F60RRD6BA651B4EB481DE3E4B9282C9C6502B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2025.04.08-18.46.23:553][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR
+[2025.04.08-18.46.23:554][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/5PI42YRDC8HSSG6BVV2GRRD9F80FD84AE81E4E81DD1E90837D8137.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset'
+[2025.04.08-18.46.23:558][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8
+[2025.04.08-18.46.23:559][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/BBOCKSZY1GVHTFRX0PR0O8C500ED3C415C7DF129D33DBC7BEAEA63.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset'
+[2025.04.08-18.46.23:564][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW
+[2025.04.08-18.46.23:565][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/7JQC72ZY37QM4IT43WD5CW708E58BB482C0086847A698154B2683B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset'
+[2025.04.08-18.46.23:568][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2025.04.08-18.46.23:570][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Q7Y1URWWFS0TXGWUTO3S614F92514844A7EBBDF7F8DDA151497627.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2025.04.08-18.46.23:573][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR
+[2025.04.08-18.46.23:574][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/NMHOKL5LGQDOAAG00FUMZR17FE9BF64B8B4C26CE5EC5BAF7C52007.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset'
+[2025.04.08-18.46.23:578][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y
+[2025.04.08-18.46.23:579][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/9BWDWCNL7OZT2HTML9LK1Y6BED00454B436BFD4DE4698996B295DB.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset'
+[2025.04.08-18.46.23:583][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04
+[2025.04.08-18.46.23:583][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/1IKKDYS7RULH8FRYRPPF04FBD0C10D4353A28F36A63EB80762BEDB.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset'
+[2025.04.08-18.46.23:588][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I
+[2025.04.08-18.46.23:589][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/9H7TKAXH9DD8KI3TIXGI2IC221CAB449D2DCB009EAF895F1A66477.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset'
+[2025.04.08-18.46.23:593][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2
+[2025.04.08-18.46.23:594][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/O43ETCZTFMLWWH1CJ941H27856CFFD4CAF67B0DDAF4AA494CCADE6.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset'
+[2025.04.08-18.46.23:601][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF
+[2025.04.08-18.46.23:602][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/UUYHDUFQAXTRRN4RVOPIUF0653B0CF43D466C25AEB85855EDD88B4.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset'
+[2025.04.08-18.46.23:606][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN
+[2025.04.08-18.46.23:607][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/8RB55FM1HBEUVO4IOQC4YN54B49D5C43FA25EE86803698586176E5.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset'
+[2025.04.08-18.46.23:611][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF
+[2025.04.08-18.46.23:613][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/K2YM0JIRZ78IHGM8W2QBAF04CA37194FCA6660112925AEC1B95706.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset'
+[2025.04.08-18.46.23:616][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ
+[2025.04.08-18.46.23:617][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/6LXV4Y6DE3LUT705XNU4DZ56037D1F4762E7CC0BBBE7913F5E213A.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset'
+[2025.04.08-18.46.23:621][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO
+[2025.04.08-18.46.23:622][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/9VVR39MG0K7W5GQIEFE7SOB87D390043DA1C2B2955519CA0C677F9.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset'
+[2025.04.08-18.46.23:626][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2025.04.08-18.46.23:627][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/OTJMGDDXDV5TI7982YKZ5P17D1B5394FCDCCDE782ECF91F07DF622.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2025.04.08-18.46.23:631][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C
+[2025.04.08-18.46.23:632][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/6B9RJI3FDPCETRKXUXCQ4C681BE0A145E9A7C235759AAA1F55C4C2.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset'
+[2025.04.08-18.46.23:636][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96
+[2025.04.08-18.46.23:637][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/IM858T68EBXCBX1T2FNR960FA16C664270D372A6AAE18324AE8D24.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset'
+[2025.04.08-18.46.23:640][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/UU/8H1TFAG9FPZ175I2O3WX4N] ([1] browsable assets)...
+[2025.04.08-18.46.23:640][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/UU/8H1TFAG9FPZ175I2O3WX4N]
+[2025.04.08-18.46.23:641][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/UU/8H1TFAG9FPZ175I2O3WX4N
+[2025.04.08-18.46.23:641][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/8H1TFAG9FPZ175I2O3WX4N32392A314D8030E32142DC9103F83C62.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/UU/8H1TFAG9FPZ175I2O3WX4N.uasset'
+[2025.04.08-18.46.23:643][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/P8/4GWWT554JHG5DE9MVIJTKN] ([1] browsable assets)...
+[2025.04.08-18.46.23:643][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/P8/4GWWT554JHG5DE9MVIJTKN]
+[2025.04.08-18.46.23:644][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/P8/4GWWT554JHG5DE9MVIJTKN
+[2025.04.08-18.46.23:644][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/4GWWT554JHG5DE9MVIJTKNA94A65AC49B3BD24A35A7D9590FBB43B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/P8/4GWWT554JHG5DE9MVIJTKN.uasset'
+[2025.04.08-18.46.23:646][529]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/R6/CPHML5TXA0PYWUIUPF3EUD] ([1] browsable assets)...
+[2025.04.08-18.46.23:646][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/R6/CPHML5TXA0PYWUIUPF3EUD]
+[2025.04.08-18.46.23:648][529]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/R6/CPHML5TXA0PYWUIUPF3EUD
+[2025.04.08-18.46.23:648][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/CPHML5TXA0PYWUIUPF3EUDA47C1F014CEA4986CA7FD4B3D0E1CDDC.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/5/R6/CPHML5TXA0PYWUIUPF3EUD.uasset'
+[2025.04.08-18.46.23:666][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/8N/LVEZNJA048E9JGKFPLOTKV
+[2025.04.08-18.46.23:667][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/LVEZNJA048E9JGKFPLOTKVE62DA788411A3A6274AD649C359CD755.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/8N/LVEZNJA048E9JGKFPLOTKV.uasset'
+[2025.04.08-18.46.23:683][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W9/MFVLW93FUNAJMC2LMAX7Z8
+[2025.04.08-18.46.23:684][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/MFVLW93FUNAJMC2LMAX7Z830C6C8274736201EB431F098E889DDB1.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/W9/MFVLW93FUNAJMC2LMAX7Z8.uasset'
+[2025.04.08-18.46.23:698][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/NV/Z63FPC16ZCELWQGZZGQB4Y
+[2025.04.08-18.46.23:699][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Z63FPC16ZCELWQGZZGQB4YE8F536E14BDD91F85367C58E2C2A2110.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/NV/Z63FPC16ZCELWQGZZGQB4Y.uasset'
+[2025.04.08-18.46.23:713][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TR/49RUYM94FCVNQSLWCQHR83
+[2025.04.08-18.46.23:715][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/49RUYM94FCVNQSLWCQHR83CCC6A4914CEAFBC0C677B895AD0DE43A.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TR/49RUYM94FCVNQSLWCQHR83.uasset'
+[2025.04.08-18.46.23:730][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XL/UI6BZ9LENRVVCFY13N1XNM
+[2025.04.08-18.46.23:731][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/UI6BZ9LENRVVCFY13N1XNM09B0AB8D4AA81273DB3BC786CF60182B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XL/UI6BZ9LENRVVCFY13N1XNM.uasset'
+[2025.04.08-18.46.23:746][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T4/K5FRMX6HT6T66CLHJTJZ7L
+[2025.04.08-18.46.23:748][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/K5FRMX6HT6T66CLHJTJZ7LE9F9AFBE4EE345F32D424EA97E730C4C.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/T4/K5FRMX6HT6T66CLHJTJZ7L.uasset'
+[2025.04.08-18.46.23:769][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SU/J8DZC0ZORJ502431Y4T1WQ
+[2025.04.08-18.46.23:770][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/J8DZC0ZORJ502431Y4T1WQ086D956A4CB4C8D3932E1C8E5D9EB1A1.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/SU/J8DZC0ZORJ502431Y4T1WQ.uasset'
+[2025.04.08-18.46.23:785][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VS/V93FKABTIPFFU1EF2M8TMN
+[2025.04.08-18.46.23:785][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/V93FKABTIPFFU1EF2M8TMNEC4C3EEF4EDE0B870DB65B853011917B.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/VS/V93FKABTIPFFU1EF2M8TMN.uasset'
+[2025.04.08-18.46.23:802][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RJ/7QPU0135W9SFG6EOGVSMLC
+[2025.04.08-18.46.23:803][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/7QPU0135W9SFG6EOGVSMLCACE79A2147D16989BF02278558279ADA.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/RJ/7QPU0135W9SFG6EOGVSMLC.uasset'
+[2025.04.08-18.46.23:814][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7N/C7CS0R9W1A32L00A381K6Q
+[2025.04.08-18.46.23:815][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/C7CS0R9W1A32L00A381K6QECD93AD4491C2C4C5BD5B4A24B94A8D8.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7N/C7CS0R9W1A32L00A381K6Q.uasset'
+[2025.04.08-18.46.23:833][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JB/7HU1TCXRLC6GTFW3DWJ5RI
+[2025.04.08-18.46.23:834][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/7HU1TCXRLC6GTFW3DWJ5RI2B5B84A34A34CEF963FC06BA2BFB083A.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JB/7HU1TCXRLC6GTFW3DWJ5RI.uasset'
+[2025.04.08-18.46.23:845][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XR/XULJWK961S6GMBCTPS1V3C
+[2025.04.08-18.46.23:846][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/XULJWK961S6GMBCTPS1V3CD1C6859B400F13567BE477B19AA92AAC.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XR/XULJWK961S6GMBCTPS1V3C.uasset'
+[2025.04.08-18.46.23:866][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6T/IHHEHPEXRYGRRA5E1HB44N
+[2025.04.08-18.46.23:867][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/IHHEHPEXRYGRRA5E1HB44N4E4F695B439C7142FB833F91A77C6006.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6T/IHHEHPEXRYGRRA5E1HB44N.uasset'
+[2025.04.08-18.46.23:884][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VP/2N1334ZI3S6EBR3E55IVCB
+[2025.04.08-18.46.23:884][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/2N1334ZI3S6EBR3E55IVCB1EAAAD8F4F5D22D087151C8DA10DBDC5.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/VP/2N1334ZI3S6EBR3E55IVCB.uasset'
+[2025.04.08-18.46.23:901][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BE/S89QD37RV7YGDMGJF2KNF1
+[2025.04.08-18.46.23:902][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/S89QD37RV7YGDMGJF2KNF1C668C24D455CA2E8A136FDA7F7A1D4E8.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BE/S89QD37RV7YGDMGJF2KNF1.uasset'
+[2025.04.08-18.46.23:929][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2A/O1YNQH3T5QTFVCRVDAN3DA
+[2025.04.08-18.46.23:930][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/O1YNQH3T5QTFVCRVDAN3DA114CA63D4A59858CD8DE1FAB5FD7DFC2.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2A/O1YNQH3T5QTFVCRVDAN3DA.uasset'
+[2025.04.08-18.46.23:941][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9D/X0WDUMKPWZQE9K74LLE6MZ
+[2025.04.08-18.46.23:942][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/X0WDUMKPWZQE9K74LLE6MZF7CA8B87423AE0FC33E4D6909EB21DD1.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/9D/X0WDUMKPWZQE9K74LLE6MZ.uasset'
+[2025.04.08-18.46.23:961][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3W/HKW2P6H4DMDNNWIGHJ6MM1
+[2025.04.08-18.46.23:962][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HKW2P6H4DMDNNWIGHJ6MM1F23285834E6D0B52CC6F6B8C3AE2E3DD.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/3W/HKW2P6H4DMDNNWIGHJ6MM1.uasset'
+[2025.04.08-18.46.23:983][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JO/Y8ISPN1QDQRW2RNEXF84XV
+[2025.04.08-18.46.23:984][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Y8ISPN1QDQRW2RNEXF84XV936344914BDA7B839586ADA039EA1390.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JO/Y8ISPN1QDQRW2RNEXF84XV.uasset'
+[2025.04.08-18.46.24:000][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2K/A86QXSMEMWAX1PM9EHT269
+[2025.04.08-18.46.24:001][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/A86QXSMEMWAX1PM9EHT2699866FC4F4A3D2386A2B40EA732A6F729.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2K/A86QXSMEMWAX1PM9EHT269.uasset'
+[2025.04.08-18.46.24:030][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3O/2C3MAKJDF5ACB3JD3J8W8W
+[2025.04.08-18.46.24:031][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/2C3MAKJDF5ACB3JD3J8W8W9545FC4A4EA8B118EBEAD7B76F72A819.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3O/2C3MAKJDF5ACB3JD3J8W8W.uasset'
+[2025.04.08-18.46.24:054][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2Y/GUOW1UU9XXR5EMXOU71YL4
+[2025.04.08-18.46.24:056][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/GUOW1UU9XXR5EMXOU71YL47CCCE5284F932FD454874394AF202F3C.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2Y/GUOW1UU9XXR5EMXOU71YL4.uasset'
+[2025.04.08-18.46.24:072][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/RE/743IXGP9E5N92AYCUQ61JW
+[2025.04.08-18.46.24:072][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/743IXGP9E5N92AYCUQ61JW008C21564271DE3B10A50099334D2787.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/RE/743IXGP9E5N92AYCUQ61JW.uasset'
+[2025.04.08-18.46.24:084][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MM/7HFV2O5NTYJFGHYL0Q99S9
+[2025.04.08-18.46.24:085][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/7HFV2O5NTYJFGHYL0Q99S938C5A2D444091E0405AFE0927952B8B1.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MM/7HFV2O5NTYJFGHYL0Q99S9.uasset'
+[2025.04.08-18.46.24:101][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/W4/53PBEEG3C30JNTWTGLKMWW
+[2025.04.08-18.46.24:102][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/53PBEEG3C30JNTWTGLKMWWCF9E044A4942982058DC0C801FCFB228.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/W4/53PBEEG3C30JNTWTGLKMWW.uasset'
+[2025.04.08-18.46.24:116][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O9/VF9V5FE1QPYVADL02NJ3H1
+[2025.04.08-18.46.24:117][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/VF9V5FE1QPYVADL02NJ3H1921C35444364A677FAE8819E0B30AB37.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O9/VF9V5FE1QPYVADL02NJ3H1.uasset'
+[2025.04.08-18.46.24:135][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/C1/3JWHXHDBH1GVVHAP6ZYWQ6
+[2025.04.08-18.46.24:136][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/3JWHXHDBH1GVVHAP6ZYWQ6128AEB2E427AC424D31EDBAC979CC4E5.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/C1/3JWHXHDBH1GVVHAP6ZYWQ6.uasset'
+[2025.04.08-18.46.24:152][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GO/OZR3P5ASC7UIU69J1WZ459
+[2025.04.08-18.46.24:153][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/OZR3P5ASC7UIU69J1WZ45990D980824EB3DFD265C11C8E10EC52C5.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/GO/OZR3P5ASC7UIU69J1WZ459.uasset'
+[2025.04.08-18.46.24:173][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/92/Z6I8WKU4XA4ZW0RLIZKTQF
+[2025.04.08-18.46.24:174][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/Z6I8WKU4XA4ZW0RLIZKTQFB435482D46CD1955536B939F7B9664EA.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/92/Z6I8WKU4XA4ZW0RLIZKTQF.uasset'
+[2025.04.08-18.46.24:191][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FU/VPRPDSCOXANUH10X1OQ9S7
+[2025.04.08-18.46.24:192][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/VPRPDSCOXANUH10X1OQ9S71FEC8B63423AF6AE682443AEE8366193.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FU/VPRPDSCOXANUH10X1OQ9S7.uasset'
+[2025.04.08-18.46.24:210][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WO/780K703SNK3FHVQ1CNXTQV
+[2025.04.08-18.46.24:211][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/780K703SNK3FHVQ1CNXTQV74E8CC9846C914B85829B98278AAC964.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WO/780K703SNK3FHVQ1CNXTQV.uasset'
+[2025.04.08-18.46.24:231][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XB/UV5E3105CCRDXL7MEPZW76
+[2025.04.08-18.46.24:232][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/UV5E3105CCRDXL7MEPZW767032C9864BA161CAA7B275929AC0EC97.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XB/UV5E3105CCRDXL7MEPZW76.uasset'
+[2025.04.08-18.46.24:245][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AS/NFBS3BRCFP5YP50MGHTDBM
+[2025.04.08-18.46.24:247][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/NFBS3BRCFP5YP50MGHTDBM16D9F0664A47347854AAD1AA159353B8.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AS/NFBS3BRCFP5YP50MGHTDBM.uasset'
+[2025.04.08-18.46.24:261][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ER/EIOMJHD4PQPEGQI8E61EIO
+[2025.04.08-18.46.24:262][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/EIOMJHD4PQPEGQI8E61EIOCF37CF9E4E1AEA609B15C1939CD032BD.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ER/EIOMJHD4PQPEGQI8E61EIO.uasset'
+[2025.04.08-18.46.24:279][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SK/7YW6ZFDL1P4PBTMRL2FK00
+[2025.04.08-18.46.24:280][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/7YW6ZFDL1P4PBTMRL2FK0037C0EF264AF7A381B8AAD2BE9C7891F7.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SK/7YW6ZFDL1P4PBTMRL2FK00.uasset'
+[2025.04.08-18.46.24:321][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UN/0N490922EVTSV7U1DNG8NA
+[2025.04.08-18.46.24:321][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/0N490922EVTSV7U1DNG8NA31769E5641F1D2BAC4185D8A197ED6B8.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/UN/0N490922EVTSV7U1DNG8NA.uasset'
+[2025.04.08-18.46.24:343][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/T2/5E4QXB5I4L236HJIJDXQ8R
+[2025.04.08-18.46.24:344][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/5E4QXB5I4L236HJIJDXQ8R08D7719A4EB7AC31838783BA0235FF56.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/T2/5E4QXB5I4L236HJIJDXQ8R.uasset'
+[2025.04.08-18.46.24:364][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/I3/PTRD1IJ1M28A6R7GQQ4OIA
+[2025.04.08-18.46.24:365][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/PTRD1IJ1M28A6R7GQQ4OIA02D959EF4CB0EB1542816E9DD5903751.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/I3/PTRD1IJ1M28A6R7GQQ4OIA.uasset'
+[2025.04.08-18.46.24:389][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QU/IWND0V3DYQTY6UYAV4BVUT
+[2025.04.08-18.46.24:390][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/IWND0V3DYQTY6UYAV4BVUT177F51DA4B2B9880693E989DF0C47864.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QU/IWND0V3DYQTY6UYAV4BVUT.uasset'
+[2025.04.08-18.46.24:439][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BP/GFMPC7VBA25MH00ZXPLSDL
+[2025.04.08-18.46.24:440][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/GFMPC7VBA25MH00ZXPLSDLD843FD7F47DDA69C67F42790EC7F8028.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BP/GFMPC7VBA25MH00ZXPLSDL.uasset'
+[2025.04.08-18.46.24:464][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/CX/DSLDTHK8KNNJ2BW78KHNA2
+[2025.04.08-18.46.24:466][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/DSLDTHK8KNNJ2BW78KHNA2F233910742C257F974DFE2BDC283C0FB.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/CX/DSLDTHK8KNNJ2BW78KHNA2.uasset'
+[2025.04.08-18.46.24:478][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6X/22WE2BT4NSGAN1Z5X6ETV4
+[2025.04.08-18.46.24:479][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/22WE2BT4NSGAN1Z5X6ETV40462A7C4448C6FFD12AD6E8501FF45A2.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6X/22WE2BT4NSGAN1Z5X6ETV4.uasset'
+[2025.04.08-18.46.24:492][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DW/HLUDO5PYJAG37JOGJJYYIA
+[2025.04.08-18.46.24:493][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HLUDO5PYJAG37JOGJJYYIA94D6AE7D4EF1D24F593DACAC87238509.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DW/HLUDO5PYJAG37JOGJJYYIA.uasset'
+[2025.04.08-18.46.24:507][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BB/SCD15WHCVX1YQV4JPI0J3P
+[2025.04.08-18.46.24:508][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/SCD15WHCVX1YQV4JPI0J3P672840034A51F967EAD53E9017C5F121.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/BB/SCD15WHCVX1YQV4JPI0J3P.uasset'
+[2025.04.08-18.46.24:520][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TH/HAKWGO3DT4HZCDRIL7XMP1
+[2025.04.08-18.46.24:521][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/HAKWGO3DT4HZCDRIL7XMP10BBBCFC44DD78A12568633A468E05935.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TH/HAKWGO3DT4HZCDRIL7XMP1.uasset'
+[2025.04.08-18.46.24:531][529]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WF/OOAUA01RI5J6TXEU8TEELJ
+[2025.04.08-18.46.24:532][529]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/OOAUA01RI5J6TXEU8TEELJ09F54B6F42C6D50D863A808E7279A244.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WF/OOAUA01RI5J6TXEU8TEELJ.uasset'
+[2025.04.08-18.46.25:182][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.24 sec (total: 9.69 sec)
+[2025.04.08-18.46.25:488][529]LogContentValidation: Display: Starting to validate 95 assets
+[2025.04.08-18.46.25:488][529]LogContentValidation: Enabled validators:
+[2025.04.08-18.46.25:488][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-18.46.25:488][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-18.46.25:488][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-18.46.25:488][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-18.46.25:488][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-18.46.25:488][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-18.46.25:489][529]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.08-18.47.01:987][575]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.08-18.47.05:017][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.08-18.47.05:901][740]LogSlate: Window 'Save Content' being destroyed
+[2025.04.08-18.47.06:118][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.08-18.47.06:247][740]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/12/E6FRJRU3T9IVXFB4WQKG7Q] ([1] browsable assets)...
+[2025.04.08-18.47.06:247][740]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/12/E6FRJRU3T9IVXFB4WQKG7Q]
+[2025.04.08-18.47.06:249][740]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/12/E6FRJRU3T9IVXFB4WQKG7Q
+[2025.04.08-18.47.06:249][740]LogSavePackage: Moving '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Saved/E6FRJRU3T9IVXFB4WQKG7QA1C69018472384C5F034A49CAB075F34.tmp' to '../../../../../../Users/prazi/OneDrive/Plocha/mapa/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/12/E6FRJRU3T9IVXFB4WQKG7Q.uasset'
+[2025.04.08-18.47.06:527][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 409.049 ms (total: 10.1 sec)
+[2025.04.08-18.47.06:647][740]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.08-18.47.06:647][740]LogContentValidation: Enabled validators:
+[2025.04.08-18.47.06:647][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.08-18.47.06:647][740]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.08-18.47.06:647][740]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.08-18.47.06:647][740]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.08-18.47.06:647][740]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.08-18.47.06:647][740]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.08-18.47.06:648][740]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
